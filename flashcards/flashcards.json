@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "ethical_and_professional_standards",
+    "front": "What are the six components of the CFA Institute Code of Ethics?",
+    "back": "Members and candidates must act with integrity, competence, diligence, respect, and in an ethical manner; place the integrity of the profession and client interests above their own; use reasonable care and independent judgment; practice and encourage others to practice professionally and ethically; promote market integrity; and maintain and improve professional competence."
+  },
+  {
+    "id": 2,
+    "domain": "ethical_and_professional_standards",
+    "front": "How many Standards of Professional Conduct are there and what are their broad categories?",
+    "back": "There are seven Standards: Professionalism, Integrity of Capital Markets, Duties to Clients, Duties to Employers, Investment Analysis and Recommendations, Conflicts of Interest, and Responsibilities as a CFA Institute Member or Candidate."
+  },
+  {
+    "id": 3,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(A) Knowledge of the Law require?",
+    "back": "Members must understand and comply with applicable laws, rules, and regulations, including the Code and Standards, and must follow the stricter of applicable law or the Code and Standards when they conflict."
+  },
+  {
+    "id": 4,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard I(A), what should a member do upon learning of illegal or unethical activity?",
+    "back": "Disassociate from the activity, which may require reporting it internally or to regulators, and may include resigning from the firm if the activity continues."
+  },
+  {
+    "id": 5,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(B) Independence and Objectivity require?",
+    "back": "Members must use reasonable care and judgment to achieve and maintain independence and objectivity, and must not offer, solicit, or accept gifts, benefits, or compensation that could reasonably be expected to compromise their own or another's independence."
+  },
+  {
+    "id": 6,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard I(B), how should gifts from clients versus issuers be treated?",
+    "back": "Client gifts may be viewed as compensation for services if disclosed to the employer, while gifts from issuers or third parties that could threaten objectivity should be disclosed and may need to be limited to token value."
+  },
+  {
+    "id": 7,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(C) Misrepresentation prohibit?",
+    "back": "Members must not knowingly make any misrepresentations relating to investment analysis, recommendations, actions, or other professional activities, including omitting facts necessary to keep a statement from being misleading."
+  },
+  {
+    "id": 8,
+    "domain": "ethical_and_professional_standards",
+    "front": "Give an example of a violation of Standard I(C) Misrepresentation.",
+    "back": "Guaranteeing a specific investment return when no such guarantee is possible, plagiarizing another analyst's research report, or overstating one's own credentials or experience."
+  },
+  {
+    "id": 9,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(D) Misconduct address?",
+    "back": "Members must not engage in any professional conduct involving dishonesty, fraud, or deceit, or commit any act that reflects adversely on their professional reputation, integrity, or competence, whether or not it relates to professional activities."
+  },
+  {
+    "id": 10,
+    "domain": "ethical_and_professional_standards",
+    "front": "Does Standard I(D) Misconduct apply only to work-related behavior?",
+    "back": "No, it can extend to personal conduct if that conduct involves dishonesty, fraud, or deceit and reflects poorly on the member's professional reputation, integrity, or competence."
+  },
+  {
+    "id": 11,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is Standard II(A) Material Nonpublic Information?",
+    "back": "Members who possess material nonpublic information that could affect an investment's value must not act or cause others to act on it, and must make reasonable efforts to prevent its misuse."
+  },
+  {
+    "id": 12,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is the mosaic theory under Standard II(A)?",
+    "back": "Combining public information and non-material nonpublic information to reach an investment conclusion is permitted, even if the resulting conclusion would be the same as if material nonpublic information had been used."
+  },
+  {
+    "id": 13,
+    "domain": "ethical_and_professional_standards",
+    "front": "What firewall procedures help comply with Standard II(A)?",
+    "back": "Firms often use information barriers between departments (such as investment banking and research), restricted lists, watch lists, and physical separation of personnel to prevent misuse of material nonpublic information."
+  },
+  {
+    "id": 14,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard II(B) Market Manipulation prohibit?",
+    "back": "Members must not engage in practices that distort prices or artificially inflate trading volume with the intent to mislead market participants, including both information-based and transaction-based manipulation."
+  },
+  {
+    "id": 15,
+    "domain": "ethical_and_professional_standards",
+    "front": "Give an example of transaction-based market manipulation under Standard II(B).",
+    "back": "Wash trading, painting the tape by trading among related accounts to create the appearance of activity, or entering orders with no intention of executing them to move the market price."
+  },
+  {
+    "id": 16,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(A) Loyalty, Prudence, and Care require?",
+    "back": "Members must act for the benefit of clients and place client interests before their own or their employer's, exercising prudence, care, skill, and diligence in managing client accounts."
+  },
+  {
+    "id": 17,
+    "domain": "ethical_and_professional_standards",
+    "front": "How does the duty of loyalty under Standard III(A) apply to soft dollar or brokerage arrangements?",
+    "back": "Client brokerage is client property and must be used to benefit the client, such as through client-directed brokerage that still seeks best execution, not to benefit the manager alone."
+  },
+  {
+    "id": 18,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(B) Fair Dealing require?",
+    "back": "Members must deal fairly and objectively with all clients when providing investment analysis, recommendations, or taking investment action, and must not favor some clients over others."
+  },
+  {
+    "id": 19,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard III(B), how should an investment recommendation change be disseminated?",
+    "back": "Simultaneously or as close to simultaneously as possible to all clients who are entitled to receive it, rather than giving preferential early access to select clients."
+  },
+  {
+    "id": 20,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(C) Suitability require?",
+    "back": "Members must make a reasonable inquiry into a client's investment objectives, risk tolerance, time horizon, and financial constraints before making a recommendation, and must consider a client's whole portfolio when giving advice."
+  },
+  {
+    "id": 21,
+    "domain": "ethical_and_professional_standards",
+    "front": "How does Standard III(C) Suitability differ for pooled investment vehicles?",
+    "back": "For a fund managed to a stated mandate, the manager must ensure investment actions are consistent with the fund's stated objectives and policies rather than any individual investor's personal circumstances."
+  },
+  {
+    "id": 22,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(D) Performance Presentation require?",
+    "back": "When communicating investment performance, members must make reasonable efforts to ensure it is fair, accurate, and complete, avoiding cherry-picked time periods or misleading benchmarks."
+  },
+  {
+    "id": 23,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(E) Preservation of Confidentiality require?",
+    "back": "Members must keep information about current, former, and prospective clients confidential unless disclosure is required by law, the client permits it, or the information concerns illegal activity by the client."
+  },
+  {
+    "id": 24,
+    "domain": "ethical_and_professional_standards",
+    "front": "Does Standard III(E) confidentiality survive the end of a client relationship?",
+    "back": "Yes, the duty of confidentiality continues even after the client relationship has ended."
+  },
+  {
+    "id": 25,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(A) Loyalty require regarding an employer?",
+    "back": "Members must act for the benefit of their employer and not deprive the employer of their skills and abilities, divulge confidential information, or otherwise cause harm to the employer."
+  },
+  {
+    "id": 26,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard IV(A), what preparations are allowed before leaving an employer?",
+    "back": "A member may make arrangements to compete with a current employer after departure, such as lining up office space or logistics, but must not solicit clients, misappropriate confidential records, or otherwise misuse employer resources before leaving."
+  },
+  {
+    "id": 27,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(B) Additional Compensation Arrangements require?",
+    "back": "Members must not accept gifts, benefits, or compensation that competes with or might reasonably be expected to create a conflict with their employer's interest, unless they obtain written consent from all parties involved."
+  },
+  {
+    "id": 28,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(C) Responsibilities of Supervisors require?",
+    "back": "Supervisors must make reasonable efforts to detect and prevent violations of applicable laws, rules, and the Code and Standards by anyone subject to their supervision or authority."
+  },
+  {
+    "id": 29,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is an adequate compliance system under Standard IV(C)?",
+    "back": "One that is reasonably designed to detect and prevent violations, with clear procedures communicated to employees, and is actively enforced rather than just existing on paper."
+  },
+  {
+    "id": 30,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard V(A) Diligence and Reasonable Basis require?",
+    "back": "Members must exercise diligence, independence, and thoroughness in analyzing investments, making recommendations, and taking investment actions, and must have a reasonable and adequate basis supported by appropriate research."
+  },
+  {
+    "id": 31,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard V(A), what if a member relies on third-party research?",
+    "back": "The member should establish a policy to periodically evaluate whether that third-party research has a sound basis, and should not simply accept it without any due diligence."
+  },
+  {
+    "id": 32,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard V(B) Communication with Clients and Prospective Clients require?",
+    "back": "Members must disclose the basic format and general principles of investment processes used, promptly disclose significant changes affecting those processes, and distinguish between fact and opinion when making recommendations."
+  },
+  {
+    "id": 33,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard V(B), what must members disclose about investment risk?",
+    "back": "They must communicate the risks and limitations of the analysis or recommendation, including any significant assumptions or limitations of the investment process."
+  },
+  {
+    "id": 34,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard V(C) Record Retention require?",
+    "back": "Members must develop and maintain records supporting their investment analysis, recommendations, actions, and other investment-related communications, and such records are generally considered the property of the firm."
+  },
+  {
+    "id": 35,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is the typical record retention guideline referenced under Standard V(C) absent other regulation?",
+    "back": "CFA Institute recommends maintaining records for at least seven years in the absence of any other regulatory or firm requirement."
+  },
+  {
+    "id": 36,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(A) Disclosure of Conflicts require?",
+    "back": "Members must make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with duties to clients, employers, and prospective clients."
+  },
+  {
+    "id": 37,
+    "domain": "ethical_and_professional_standards",
+    "front": "Give an example of a conflict that must be disclosed under Standard VI(A).",
+    "back": "A member's ownership of stock in a company they are recommending, board membership at an issuer being covered, or a referral fee arrangement between the firm and another party."
+  },
+  {
+    "id": 38,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(B) Priority of Transactions require?",
+    "back": "Investment transactions for clients and employers must have priority over transactions in securities or investments in which a member is the beneficial owner, so client interests come first."
+  },
+  {
+    "id": 39,
+    "domain": "ethical_and_professional_standards",
+    "front": "Under Standard VI(B), what is generally required before a member trades personally in a security also being recommended?",
+    "back": "Clients and the employer should have an adequate opportunity to act on a recommendation before the member trades for their own personal account in the same security."
+  },
+  {
+    "id": 40,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(C) Referral Fees require?",
+    "back": "Members must disclose to employers, clients, and prospective clients any compensation, consideration, or benefit received from, or paid to, others for the recommendation of products or services."
+  },
+  {
+    "id": 41,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VII(A) Conduct as Members and Candidates in the CFA Program prohibit?",
+    "back": "Members and candidates must not engage in conduct that compromises the reputation or integrity of CFA Institute or the CFA designation, such as cheating on the exam, revealing confidential exam content, or misusing CFA Institute materials."
+  },
+  {
+    "id": 42,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VII(B) Reference to CFA Institute, the CFA Designation, and the CFA Program require?",
+    "back": "Members and candidates must not misrepresent or exaggerate the meaning or implications of CFA Institute membership, holding the CFA designation, or candidacy in the CFA Program."
+  },
+  {
+    "id": 43,
+    "domain": "ethical_and_professional_standards",
+    "front": "Can a candidate say they are a 'CFA Level II candidate' before completing Level I?",
+    "back": "No, a candidate may only reference an exam level once they have registered for and are eligible to sit for that specific level, and must not imply a superior status is guaranteed by candidacy alone."
+  },
+  {
+    "id": 44,
+    "domain": "ethical_and_professional_standards",
+    "front": "What are the Global Investment Performance Standards (GIPS)?",
+    "back": "GIPS are a set of voluntary, ethical standards for calculating and presenting investment performance based on the principles of fair representation and full disclosure, promoting comparability across firms and time periods."
+  },
+  {
+    "id": 45,
+    "domain": "ethical_and_professional_standards",
+    "front": "Why might an investment firm choose to claim compliance with GIPS?",
+    "back": "Claiming GIPS compliance signals credibility and comparability to prospective clients, since it demonstrates the firm calculates and presents composite performance using consistent, industry-accepted, verifiable methodology."
+  },
+  {
+    "id": 46,
+    "domain": "ethical_and_professional_standards",
+    "front": "What are the two main components of the CFA Institute Code and Standards?",
+    "back": "The Code of Ethics, which states broad ethical principles members and candidates agree to uphold, and the Standards of Professional Conduct, which give specific, enforceable guidance for applying those principles."
+  },
+  {
+    "id": 47,
+    "domain": "ethical_and_professional_standards",
+    "front": "A portfolio manager uses confidential client information from a former employer at her new firm. Which Standard is violated?",
+    "back": "Standard I(A), Knowledge of the Law, and Standard IV(A), Loyalty, are implicated, since using a former employer's confidential records without consent breaches duties owed to that employer even after departure."
+  },
+  {
+    "id": 48,
+    "domain": "ethical_and_professional_standards",
+    "front": "Standard I(B): Independence and Objectivity, what does it require?",
+    "back": "Members must use reasonable care and judgment to achieve and maintain independence and objectivity, avoiding gifts, favors, or pressures from third parties that could compromise their professional judgment."
+  },
+  {
+    "id": 49,
+    "domain": "ethical_and_professional_standards",
+    "front": "An analyst accepts a lavish trip from a company he covers, then issues a buy rating. Which Standard applies?",
+    "back": "Standard I(B), Independence and Objectivity, is violated because the gift could reasonably be seen as compromising the analyst's objectivity, regardless of whether the rating itself was actually biased."
+  },
+  {
+    "id": 50,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(C), Misrepresentation, prohibit?",
+    "back": "Members must not knowingly make false or misleading statements about investment analysis, recommendations, actions, or other professional activities, including omitting facts necessary to keep a statement from being misleading."
+  },
+  {
+    "id": 51,
+    "domain": "ethical_and_professional_standards",
+    "front": "A firm's marketing claims it 'guarantees' a fund will beat its benchmark. Which Standard is violated?",
+    "back": "Standard I(C), Misrepresentation, since guaranteeing investment performance is a false and misleading claim that cannot be substantiated."
+  },
+  {
+    "id": 52,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard I(D), Misconduct, cover?",
+    "back": "Members must not engage in professional conduct involving dishonesty, fraud, or deceit, or commit any act that reflects adversely on their professional reputation, integrity, or competence, including in personal (non-work) matters."
+  },
+  {
+    "id": 53,
+    "domain": "ethical_and_professional_standards",
+    "front": "An analyst is convicted of tax fraud unrelated to his job duties. Does this violate the Code and Standards?",
+    "back": "Yes, Standard I(D), Misconduct, applies because the conviction involves dishonesty and reflects adversely on the member's professional reputation and integrity, even though it is unrelated to his investment work."
+  },
+  {
+    "id": 54,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is required under Standard II(A), Material Nonpublic Information?",
+    "back": "Members who possess material nonpublic information must not act or induce others to act on it; they must not trade on or disclose such information to others."
+  },
+  {
+    "id": 55,
+    "domain": "ethical_and_professional_standards",
+    "front": "What is the 'mosaic theory' and why is it relevant to Standard II(A)?",
+    "back": "The mosaic theory holds that an analyst may combine public information and non-material nonpublic information to form an investment conclusion without violating Standard II(A), because no single material nonpublic fact drove the conclusion."
+  },
+  {
+    "id": 56,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard II(B), Market Manipulation, prohibit?",
+    "back": "Members must not engage in practices that distort prices or artificially inflate trading volume, including both information-based manipulation (spreading false rumors) and transaction-based manipulation (wash trades)."
+  },
+  {
+    "id": 57,
+    "domain": "ethical_and_professional_standards",
+    "front": "A trader places and cancels large orders to create a false impression of demand, then trades on the resulting price move. Which Standard is violated?",
+    "back": "Standard II(B), Market Manipulation, since this is transaction-based manipulation designed to distort the security's price or trading volume."
+  },
+  {
+    "id": 58,
+    "domain": "ethical_and_professional_standards",
+    "front": "List the five subsections under Standard III, Duties to Clients.",
+    "back": "III(A) Loyalty, Prudence, and Care; III(B) Fair Dealing; III(C) Suitability; III(D) Performance Presentation; III(E) Preservation of Confidentiality."
+  },
+  {
+    "id": 59,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(A), Loyalty, Prudence, and Care, require?",
+    "back": "Members must act with reasonable care and exercise prudent judgment, acting for the benefit of clients and placing client interests before their employer's or their own interests."
+  },
+  {
+    "id": 60,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(B), Fair Dealing, require regarding trade allocation?",
+    "back": "Members must deal fairly and objectively with all clients when disseminating investment recommendations or taking investment action, such as allocating trades and IPO shares fairly rather than favoring certain clients."
+  },
+  {
+    "id": 61,
+    "domain": "ethical_and_professional_standards",
+    "front": "A manager tells his favorite client about a rating downgrade an hour before informing other clients. Which Standard is violated?",
+    "back": "Standard III(B), Fair Dealing, because clients must be treated fairly when investment recommendations are disseminated, not selectively favored by relationship."
+  },
+  {
+    "id": 62,
+    "domain": "ethical_and_professional_standards",
+    "front": "What must a member do under Standard III(C), Suitability, before investing on a client's behalf?",
+    "back": "The member must make a reasonable inquiry into the client's investment experience, risk tolerance, objectives, and constraints, then judge each investment's suitability within the context of the client's total portfolio."
+  },
+  {
+    "id": 63,
+    "domain": "ethical_and_professional_standards",
+    "front": "A conservative retiree is placed heavily into speculative leveraged options without any documented risk assessment. Which Standard is violated?",
+    "back": "Standard III(C), Suitability, since the investment does not match the client's risk tolerance and objectives and no reasonable inquiry into those factors was documented."
+  },
+  {
+    "id": 64,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(D), Performance Presentation, require?",
+    "back": "When communicating investment performance, members must make reasonable efforts to ensure it is fair, accurate, and complete, avoiding cherry-picked time periods or misleading comparisons."
+  },
+  {
+    "id": 65,
+    "domain": "ethical_and_professional_standards",
+    "front": "A firm advertises only its best-performing fund's returns from a cherry-picked 3-month window. Which Standard is violated?",
+    "back": "Standard III(D), Performance Presentation, because the presentation is not fair, accurate, or complete and could mislead prospective clients about typical performance."
+  },
+  {
+    "id": 66,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard III(E), Preservation of Confidentiality, require?",
+    "back": "Members must keep current, former, and prospective client information confidential unless disclosure is required by law, the client consents, or the information concerns illegal activity by the client."
+  },
+  {
+    "id": 67,
+    "domain": "ethical_and_professional_standards",
+    "front": "A client reveals during a meeting that he is running a Ponzi scheme with the assets under management. May the member disclose this?",
+    "back": "Yes, Standard III(E) permits disclosure of confidential client information when it concerns illegal activities by the client, even without the client's consent."
+  },
+  {
+    "id": 68,
+    "domain": "ethical_and_professional_standards",
+    "front": "List the three subsections under Standard IV, Duties to Employers.",
+    "back": "IV(A) Loyalty; IV(B) Additional Compensation Arrangements; IV(C) Responsibilities of Supervisors."
+  },
+  {
+    "id": 69,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(A), Loyalty, require regarding an employer's business?",
+    "back": "Members must act for the benefit of their employer and not deprive the employer of their skills, divulge confidential information, or otherwise cause harm, though they may make certain arrangements to prepare for independent competitive practice before leaving."
+  },
+  {
+    "id": 70,
+    "domain": "ethical_and_professional_standards",
+    "front": "May an analyst plan to start a competing firm while still employed, under Standard IV(A)?",
+    "back": "Yes, undertaking preliminary arrangements such as drafting a business plan or arranging financing is generally permitted, but soliciting current clients or misappropriating confidential records before departure is not."
+  },
+  {
+    "id": 71,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(B), Additional Compensation Arrangements, require?",
+    "back": "Members must not accept gifts, benefits, or compensation from clients or others that could create a conflict of interest with their employer's interests, unless they obtain written consent from all parties involved."
+  },
+  {
+    "id": 72,
+    "domain": "ethical_and_professional_standards",
+    "front": "A client offers an advisor a bonus for good performance, separate from the employer's compensation plan, without telling the firm. Which Standard is violated?",
+    "back": "Standard IV(B), Additional Compensation Arrangements, because the advisor must obtain written consent from the employer before accepting outside compensation that could create a conflict of interest."
+  },
+  {
+    "id": 73,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard IV(C), Responsibilities of Supervisors, require?",
+    "back": "Members with supervisory authority must make reasonable efforts to detect and prevent violations of laws, regulations, and the Code and Standards by those under their supervision, including establishing an adequate compliance system."
+  },
+  {
+    "id": 74,
+    "domain": "ethical_and_professional_standards",
+    "front": "A compliance officer ignores repeated red flags of unauthorized trading by a subordinate. Which Standard is violated?",
+    "back": "Standard IV(C), Responsibilities of Supervisors, because the supervisor failed to make reasonable efforts to detect and prevent a known or suspected violation."
+  },
+  {
+    "id": 75,
+    "domain": "ethical_and_professional_standards",
+    "front": "List the three subsections under Standard V, Investment Analysis, Recommendations, and Actions.",
+    "back": "V(A) Diligence and Reasonable Basis; V(B) Communication with Clients and Prospective Clients; V(C) Record Retention."
+  },
+  {
+    "id": 76,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard V(A), Diligence and Reasonable Basis, require?",
+    "back": "Members must exercise diligence, independence, and thoroughness in analyzing investments, making recommendations, or taking investment actions, and have a reasonable and adequate basis supported by appropriate research."
+  },
+  {
+    "id": 77,
+    "domain": "ethical_and_professional_standards",
+    "front": "An analyst issues a buy recommendation based solely on an unverified tip from a friend, with no independent research. Which Standard is violated?",
+    "back": "Standard V(A), Diligence and Reasonable Basis, since the recommendation lacks a reasonable and adequate basis grounded in appropriate research."
+  },
+  {
+    "id": 78,
+    "domain": "ethical_and_professional_standards",
+    "front": "What must members disclose under Standard V(B), Communication with Clients and Prospective Clients?",
+    "back": "The basic format and general principles of the investment process used, any changes that might materially affect that process, and the factors important to the investment recommendation, while distinguishing fact from opinion."
+  },
+  {
+    "id": 79,
+    "domain": "ethical_and_professional_standards",
+    "front": "How long must members retain records supporting investment analyses under Standard V(C), Record Retention, if local law is silent?",
+    "back": "CFA Institute recommends retaining records for at least seven years in the absence of applicable regulatory or firm requirements."
+  },
+  {
+    "id": 80,
+    "domain": "ethical_and_professional_standards",
+    "front": "List the three subsections under Standard VI, Conflicts of Interest.",
+    "back": "VI(A) Disclosure of Conflicts; VI(B) Priority of Transactions; VI(C) Referral Fees."
+  },
+  {
+    "id": 81,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(A), Disclosure of Conflicts, require?",
+    "back": "Members must make full and fair disclosure of all matters that could reasonably be expected to impair their independence or objectivity or interfere with duties to clients, employers, and prospective clients."
+  },
+  {
+    "id": 82,
+    "domain": "ethical_and_professional_standards",
+    "front": "An advisor recommends a fund managed by his firm's affiliate but never mentions the affiliation to the client. Which Standard is violated?",
+    "back": "Standard VI(A), Disclosure of Conflicts, because the affiliation is a conflict of interest that must be fully and fairly disclosed to the client."
+  },
+  {
+    "id": 83,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(B), Priority of Transactions, require?",
+    "back": "Client and employer transactions must take priority over transactions in securities where a member is the beneficial owner, so personal trades should not disadvantage clients, such as by front-running."
+  },
+  {
+    "id": 84,
+    "domain": "ethical_and_professional_standards",
+    "front": "A portfolio manager buys a stock for his personal account the day before placing a large buy order for clients. Which Standard is violated?",
+    "back": "Standard VI(B), Priority of Transactions, since this is front-running that gives the manager's personal trade priority and potential advantage over client transactions."
+  },
+  {
+    "id": 85,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VI(C), Referral Fees, require?",
+    "back": "Members must disclose to employers, clients, and prospective clients any compensation or benefit received from, or paid to, others for the recommendation of products or services."
+  },
+  {
+    "id": 86,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VII(A), Conduct as Members and Candidates in the CFA Program, prohibit?",
+    "back": "Conduct that compromises the reputation or integrity of CFA Institute, the CFA designation, or the CFA examinations, such as cheating on the exam, revealing confidential exam content, or misusing Institute materials."
+  },
+  {
+    "id": 87,
+    "domain": "ethical_and_professional_standards",
+    "front": "A candidate posts specific exam questions online right after sitting the CFA exam. Which Standard is violated?",
+    "back": "Standard VII(A), because disclosing confidential exam content breaks the candidate's agreement with CFA Institute and compromises the integrity of the CFA Program."
+  },
+  {
+    "id": 88,
+    "domain": "ethical_and_professional_standards",
+    "front": "What does Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, require?",
+    "back": "When referencing CFA Institute membership, the CFA designation, or candidacy, members and candidates must not misrepresent or exaggerate the meaning or implications of holding the credential or being a candidate."
+  },
+  {
+    "id": 89,
+    "domain": "ethical_and_professional_standards",
+    "front": "A Level I candidate lists 'CFA' after her name on her business card before earning the charter. Which Standard is violated?",
+    "back": "Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, since only charterholders who have completed all three levels and met experience requirements may use the CFA designation."
+  },
+  {
+    "id": 90,
+    "domain": "ethical_and_professional_standards",
+    "front": "A firm claims GIPS compliance but excludes its worst-performing composite from all reporting. What is wrong under GIPS and the Standards?",
+    "back": "This violates the GIPS requirement that firms include all actual, fee-paying, discretionary portfolios in at least one composite, and it also implicates Standard I(C), Misrepresentation, since selectively excluding poor performance misleads prospective clients about the firm's true track record."
+  },
+  {
+    "id": 91,
+    "domain": "quantitative_methods",
+    "front": "Future value formula (single sum)",
+    "back": "FV = PV × (1 + r)^N, where PV is the present value, r is the interest rate per period, and N is the number of compounding periods."
+  },
+  {
+    "id": 92,
+    "domain": "quantitative_methods",
+    "front": "Present value formula (single sum)",
+    "back": "PV = FV ÷ (1 + r)^N. This discounts a future cash flow back to today at rate r over N periods."
+  },
+  {
+    "id": 93,
+    "domain": "quantitative_methods",
+    "front": "Effective annual rate (EAR) formula",
+    "back": "EAR = (1 + periodic rate)^m − 1, where m is the number of compounding periods per year. EAR lets rates with different compounding frequencies be compared fairly."
+  },
+  {
+    "id": 94,
+    "domain": "quantitative_methods",
+    "front": "Continuous compounding EAR formula",
+    "back": "EAR = e^(stated annual rate) − 1. As compounding frequency approaches infinity, this is the limiting case of the EAR formula."
+  },
+  {
+    "id": 95,
+    "domain": "quantitative_methods",
+    "front": "Future value of an ordinary annuity",
+    "back": "FV = A × [((1 + r)^N − 1) ÷ r], where A is the periodic payment, r is the rate per period, and N is the number of payments made at the END of each period."
+  },
+  {
+    "id": 96,
+    "domain": "quantitative_methods",
+    "front": "Present value of an ordinary annuity",
+    "back": "PV = A × [(1 − (1 + r)^−N) ÷ r], where A is the periodic payment. Use this to value a level stream of payments starting one period from today."
+  },
+  {
+    "id": 97,
+    "domain": "quantitative_methods",
+    "front": "Annuity due vs ordinary annuity",
+    "back": "An annuity due has payments at the BEGINNING of each period. Its value equals the ordinary annuity value × (1 + r), since every cash flow is shifted one period earlier."
+  },
+  {
+    "id": 98,
+    "domain": "quantitative_methods",
+    "front": "Present value of a perpetuity",
+    "back": "PV = A ÷ r, where A is the constant periodic payment and r is the discount rate per period. A perpetuity is a level cash flow stream with no end date."
+  },
+  {
+    "id": 99,
+    "domain": "quantitative_methods",
+    "front": "Net present value (NPV)",
+    "back": "NPV = sum of the present values of all expected cash flows minus the initial outlay. A project with NPV > 0 is expected to increase firm value and should generally be accepted."
+  },
+  {
+    "id": 100,
+    "domain": "quantitative_methods",
+    "front": "Internal rate of return (IRR)",
+    "back": "IRR is the discount rate that makes NPV equal to zero, that is, the rate at which the present value of inflows equals the present value of outflows."
+  },
+  {
+    "id": 101,
+    "domain": "quantitative_methods",
+    "front": "Holding period return (HPR)",
+    "back": "HPR = (Ending value − Beginning value + Income) ÷ Beginning value. It measures total return earned over the actual period the investment was held."
+  },
+  {
+    "id": 102,
+    "domain": "quantitative_methods",
+    "front": "Arithmetic mean return",
+    "back": "The simple average of a series of periodic returns, calculated as the sum of returns divided by the number of periods. It does not account for compounding."
+  },
+  {
+    "id": 103,
+    "domain": "quantitative_methods",
+    "front": "Geometric mean return",
+    "back": "Geometric mean = [(1+R1) × (1+R2) × ... × (1+Rn)]^(1÷n) − 1. It reflects the actual compound growth rate over multiple periods and is always ≤ the arithmetic mean when returns vary."
+  },
+  {
+    "id": 104,
+    "domain": "quantitative_methods",
+    "front": "Money-weighted rate of return",
+    "back": "The internal rate of return on a portfolio, which accounts for the size and timing of all cash flows (contributions and withdrawals), effectively an IRR applied to investment cash flows."
+  },
+  {
+    "id": 105,
+    "domain": "quantitative_methods",
+    "front": "Time-weighted rate of return",
+    "back": "The compound growth rate of one unit of currency invested in a portfolio, calculated by linking sub-period returns and removing the effect of external cash flow timing. Preferred for evaluating a manager's skill."
+  },
+  {
+    "id": 106,
+    "domain": "quantitative_methods",
+    "front": "Population variance formula",
+    "back": "σ² = Σ(Xi − μ)² ÷ N, where μ is the population mean and N is the number of observations in the population."
+  },
+  {
+    "id": 107,
+    "domain": "quantitative_methods",
+    "front": "Sample variance formula",
+    "back": "s² = Σ(Xi − X̄)² ÷ (n − 1), where X̄ is the sample mean and n − 1 is the degrees of freedom, used because it produces an unbiased estimator of the population variance."
+  },
+  {
+    "id": 108,
+    "domain": "quantitative_methods",
+    "front": "Standard deviation",
+    "back": "The positive square root of variance, s = √s². It measures dispersion in the same units as the original data, unlike variance which is in squared units."
+  },
+  {
+    "id": 109,
+    "domain": "quantitative_methods",
+    "front": "Coefficient of variation (CV)",
+    "back": "CV = s ÷ X̄, the standard deviation divided by the mean. It expresses risk per unit of expected return, allowing comparison of dispersion across data sets with different means."
+  },
+  {
+    "id": 110,
+    "domain": "quantitative_methods",
+    "front": "Sharpe ratio",
+    "back": "Sharpe ratio = (Rp − Rf) ÷ σp, where Rp is portfolio return, Rf is the risk-free rate, and σp is the portfolio's standard deviation. It measures excess return earned per unit of total risk."
+  },
+  {
+    "id": 111,
+    "domain": "quantitative_methods",
+    "front": "Covariance",
+    "back": "Cov(X,Y) = Σ[(Xi − X̄)(Yi − Ȳ)] ÷ (n − 1). It measures how two variables move together; positive values mean they tend to move in the same direction."
+  },
+  {
+    "id": 112,
+    "domain": "quantitative_methods",
+    "front": "Correlation coefficient",
+    "back": "r = Cov(X,Y) ÷ (σX × σY). It rescales covariance to range between −1 and +1, showing both the direction and strength of a linear relationship between two variables."
+  },
+  {
+    "id": 113,
+    "domain": "quantitative_methods",
+    "front": "Skewness",
+    "back": "Skewness measures the asymmetry of a distribution. Positive skew has a long right tail (mean > median > mode), negative skew has a long left tail (mean < median < mode), and a symmetric distribution has skewness of zero."
+  },
+  {
+    "id": 114,
+    "domain": "quantitative_methods",
+    "front": "Kurtosis",
+    "back": "Kurtosis measures the peakedness of a distribution and the thickness of its tails relative to a normal distribution. A normal distribution has excess kurtosis of 0; leptokurtic distributions (excess kurtosis > 0) have fatter tails and more peakedness."
+  },
+  {
+    "id": 115,
+    "domain": "quantitative_methods",
+    "front": "Chebyshev's inequality",
+    "back": "For any distribution, the proportion of observations within k standard deviations of the mean is at least 1 − 1÷k², for k > 1. It applies regardless of the shape of the distribution."
+  },
+  {
+    "id": 116,
+    "domain": "quantitative_methods",
+    "front": "z-score formula",
+    "back": "z = (X − μ) ÷ σ. It standardizes an observation by expressing how many standard deviations it lies from the mean, allowing comparison across different distributions."
+  },
+  {
+    "id": 117,
+    "domain": "quantitative_methods",
+    "front": "Properties of the normal distribution",
+    "back": "The normal distribution is symmetric and bell-shaped, fully described by its mean and variance, has skewness of 0 and kurtosis of 3, and about 68%, 95%, and 99% of observations fall within 1, 2, and 3 standard deviations of the mean respectively."
+  },
+  {
+    "id": 118,
+    "domain": "quantitative_methods",
+    "front": "Empirical rule (normal distribution)",
+    "back": "Approximately 68% of observations lie within ±1σ of the mean, approximately 95% lie within ±2σ, and approximately 99% lie within ±3σ."
+  },
+  {
+    "id": 119,
+    "domain": "quantitative_methods",
+    "front": "Multiplication rule for independent events",
+    "back": "P(A and B) = P(A) × P(B) when events A and B are independent, meaning the occurrence of one does not affect the probability of the other."
+  },
+  {
+    "id": 120,
+    "domain": "quantitative_methods",
+    "front": "Addition rule for probability",
+    "back": "P(A or B) = P(A) + P(B) − P(A and B). Subtracting the joint probability avoids double-counting the overlap between the two events."
+  },
+  {
+    "id": 121,
+    "domain": "quantitative_methods",
+    "front": "Conditional probability formula",
+    "back": "P(A | B) = P(A and B) ÷ P(B), the probability of event A occurring given that event B has already occurred, valid when P(B) > 0."
+  },
+  {
+    "id": 122,
+    "domain": "quantitative_methods",
+    "front": "Bayes' formula",
+    "back": "P(A | B) = [P(B | A) ÷ P(B)] × P(A). It updates the prior probability of A using new information from event B to produce a posterior probability."
+  },
+  {
+    "id": 123,
+    "domain": "quantitative_methods",
+    "front": "Expected value of a random variable",
+    "back": "E(X) = Σ[P(Xi) × Xi], the probability-weighted average of all possible outcomes of a random variable."
+  },
+  {
+    "id": 124,
+    "domain": "quantitative_methods",
+    "front": "Central Limit Theorem",
+    "back": "For a sufficiently large sample size (typically n ≥ 30), the sampling distribution of the sample mean approaches a normal distribution regardless of the shape of the underlying population distribution."
+  },
+  {
+    "id": 125,
+    "domain": "quantitative_methods",
+    "front": "Standard error of the sample mean",
+    "back": "When the population standard deviation σ is known, the standard error = σ ÷ √n. When σ is unknown, it is estimated using the sample standard deviation s ÷ √n."
+  },
+  {
+    "id": 126,
+    "domain": "economics",
+    "front": "What is the law of demand?",
+    "back": "Holding all else constant, the quantity demanded of a good falls as its price rises, and rises as its price falls, producing a downward-sloping demand curve."
+  },
+  {
+    "id": 127,
+    "domain": "economics",
+    "front": "What is the law of supply?",
+    "back": "Holding all else constant, the quantity supplied of a good rises as its price rises, and falls as its price falls, producing an upward-sloping supply curve."
+  },
+  {
+    "id": 128,
+    "domain": "economics",
+    "front": "Define own-price elasticity of demand.",
+    "back": "The percentage change in quantity demanded divided by the percentage change in the good's own price. It measures how responsive buyers are to a price change."
+  },
+  {
+    "id": 129,
+    "domain": "economics",
+    "front": "What does it mean when demand is price inelastic?",
+    "back": "The absolute value of own-price elasticity is less than 1, so a given percentage price change produces a smaller percentage change in quantity demanded, and total expenditure moves in the same direction as price."
+  },
+  {
+    "id": 130,
+    "domain": "economics",
+    "front": "What is cross-price elasticity of demand and what sign indicates substitutes?",
+    "back": "It measures the percentage change in quantity demanded of one good relative to the percentage change in the price of another good. A positive cross-price elasticity indicates the two goods are substitutes."
+  },
+  {
+    "id": 131,
+    "domain": "economics",
+    "front": "What is income elasticity of demand and how are normal versus inferior goods distinguished?",
+    "back": "It measures the percentage change in quantity demanded relative to the percentage change in consumer income. Normal goods have positive income elasticity, while inferior goods have negative income elasticity."
+  },
+  {
+    "id": 132,
+    "domain": "economics",
+    "front": "What is consumer surplus?",
+    "back": "The difference between the maximum price a consumer is willing to pay for each unit and the price actually paid, summed across all units purchased, represented as the area below the demand curve and above the market price."
+  },
+  {
+    "id": 133,
+    "domain": "economics",
+    "front": "What is producer surplus?",
+    "back": "The difference between the price a producer receives and the minimum price it would accept to supply each unit, represented as the area above the supply curve and below the market price."
+  },
+  {
+    "id": 134,
+    "domain": "economics",
+    "front": "What condition defines allocative efficiency in a competitive market?",
+    "back": "Allocative efficiency occurs where marginal benefit equals marginal cost, which happens at the equilibrium quantity where supply and demand curves intersect, maximizing total surplus."
+  },
+  {
+    "id": 135,
+    "domain": "economics",
+    "front": "What is a deadweight loss?",
+    "back": "The reduction in total economic surplus that results when a market operates away from the competitive equilibrium quantity, such as from a price ceiling, price floor, tax, or monopoly restriction of output."
+  },
+  {
+    "id": 136,
+    "domain": "economics",
+    "front": "What are the defining characteristics of perfect competition?",
+    "back": "Many small firms selling a homogeneous product, free entry and exit, perfect information, and each firm acting as a price taker with a perfectly elastic (horizontal) demand curve."
+  },
+  {
+    "id": 137,
+    "domain": "economics",
+    "front": "In perfect competition, what rule determines a firm's profit-maximizing output in the short run?",
+    "back": "A firm maximizes profit by producing the quantity at which marginal revenue equals marginal cost, and it will continue to operate in the short run as long as price covers average variable cost."
+  },
+  {
+    "id": 138,
+    "domain": "economics",
+    "front": "What happens to economic profit for firms in perfect competition in the long run?",
+    "back": "Free entry and exit drive economic profit to zero, as new firms enter when profits are positive and existing firms exit when profits are negative, until price equals minimum long-run average total cost."
+  },
+  {
+    "id": 139,
+    "domain": "economics",
+    "front": "What are the key features of a monopoly market structure?",
+    "back": "A single seller of a product with no close substitutes, high barriers to entry, and the firm faces the entire downward-sloping market demand curve, giving it pricing power."
+  },
+  {
+    "id": 140,
+    "domain": "economics",
+    "front": "How does a profit-maximizing monopolist set price relative to marginal cost?",
+    "back": "The monopolist produces where marginal revenue equals marginal cost, then charges the price on the demand curve at that quantity, which is above marginal cost, unlike the perfectly competitive outcome."
+  },
+  {
+    "id": 141,
+    "domain": "economics",
+    "front": "What distinguishes monopolistic competition from perfect competition?",
+    "back": "Monopolistic competition has many firms and free entry and exit like perfect competition, but each firm sells a differentiated product, giving it some pricing power and a downward-sloping demand curve."
+  },
+  {
+    "id": 142,
+    "domain": "economics",
+    "front": "What is the defining feature of an oligopoly market structure?",
+    "back": "A small number of large firms dominate the market, each firm's decisions materially affect its rivals, and firms are mutually interdependent, often leading to strategic behavior modeled with game theory."
+  },
+  {
+    "id": 143,
+    "domain": "economics",
+    "front": "Define gross domestic product (GDP).",
+    "back": "The market value of all final goods and services produced within an economy's borders during a specific period, whether by domestic or foreign-owned factors of production."
+  },
+  {
+    "id": 144,
+    "domain": "economics",
+    "front": "What is the expenditure approach to calculating GDP?",
+    "back": "GDP equals consumption plus gross investment plus government spending plus net exports (exports minus imports), summing all final spending on domestically produced goods and services."
+  },
+  {
+    "id": 145,
+    "domain": "economics",
+    "front": "What is the income approach to calculating GDP?",
+    "back": "GDP is calculated by summing all factor incomes earned in production, such as compensation of employees, rent, interest, and profits, plus statistical adjustments like depreciation and net indirect taxes."
+  },
+  {
+    "id": 146,
+    "domain": "economics",
+    "front": "What is the difference between nominal GDP and real GDP?",
+    "back": "Nominal GDP measures output at current-year prices, while real GDP measures output using constant base-year prices, so real GDP removes the effect of price changes and isolates true output growth."
+  },
+  {
+    "id": 147,
+    "domain": "economics",
+    "front": "What are the phases of the business cycle?",
+    "back": "Expansion, peak, contraction (recession), and trough, describing recurring fluctuations in aggregate economic activity around a long-term growth trend."
+  },
+  {
+    "id": 148,
+    "domain": "economics",
+    "front": "What defines a recession in common usage?",
+    "back": "A significant decline in economic activity spread across the economy, commonly approximated as at least two consecutive quarters of negative real GDP growth, along with falling employment and income."
+  },
+  {
+    "id": 149,
+    "domain": "economics",
+    "front": "What is the difference between leading, coincident, and lagging economic indicators?",
+    "back": "Leading indicators change before the economy turns, coincident indicators move at the same time as overall economic activity, and lagging indicators change after the economy has already shifted direction."
+  },
+  {
+    "id": 150,
+    "domain": "economics",
+    "front": "How is the unemployment rate calculated?",
+    "back": "The unemployment rate equals the number of unemployed persons divided by the labor force (employed plus unemployed persons actively seeking work), expressed as a percentage."
+  },
+  {
+    "id": 151,
+    "domain": "economics",
+    "front": "What is the difference between the Consumer Price Index (CPI) and the GDP deflator as inflation measures?",
+    "back": "CPI tracks the cost of a fixed basket of goods and services purchased by a typical household, while the GDP deflator reflects prices of all domestically produced goods and services and uses a basket that changes with current output."
+  },
+  {
+    "id": 152,
+    "domain": "economics",
+    "front": "Distinguish demand-pull inflation from cost-push inflation.",
+    "back": "Demand-pull inflation arises when aggregate demand grows faster than the economy's productive capacity, while cost-push inflation arises when rising input costs, such as wages or raw materials, push up prices even as demand is stable."
+  },
+  {
+    "id": 153,
+    "domain": "economics",
+    "front": "What are the primary tools of monetary policy used by a central bank?",
+    "back": "Adjusting the policy interest rate, conducting open market operations to influence the money supply, and setting reserve requirements for commercial banks, all aimed at achieving price stability and supporting output."
+  },
+  {
+    "id": 154,
+    "domain": "economics",
+    "front": "What is expansionary fiscal policy and what are its main tools?",
+    "back": "Fiscal policy aimed at stimulating aggregate demand and economic growth, implemented through increased government spending and/or reduced taxes, typically financed by higher government borrowing."
+  },
+  {
+    "id": 155,
+    "domain": "economics",
+    "front": "What is the quantity theory of money?",
+    "back": "The equation MV = PY, where the money supply times velocity of money equals the price level times real output, implying that in the long run, sustained growth in the money supply beyond real output growth causes inflation."
+  },
+  {
+    "id": 156,
+    "domain": "economics",
+    "front": "What is purchasing power parity (PPP) in the context of exchange rates?",
+    "back": "The theory that exchange rates should adjust so that identical goods cost the same when prices are converted into a common currency, meaning currencies of countries with higher inflation should depreciate over time relative to lower-inflation countries."
+  },
+  {
+    "id": 157,
+    "domain": "economics",
+    "front": "What is covered interest rate parity?",
+    "back": "A no-arbitrage condition stating that the forward exchange rate premium or discount between two currencies must offset the interest rate differential between the two countries, so hedged returns are equal across currencies."
+  },
+  {
+    "id": 158,
+    "domain": "economics",
+    "front": "What does it mean for a currency to appreciate or depreciate under a floating exchange rate regime?",
+    "back": "Appreciation means a currency's value rises relative to another currency, so fewer units are needed to buy one unit of the other currency, while depreciation means its value falls and more units are needed, both driven by market supply and demand."
+  },
+  {
+    "id": 159,
+    "domain": "economics",
+    "front": "What is the difference between a current account and a capital/financial account in the balance of payments?",
+    "back": "The current account records trade in goods and services, income flows, and current transfers, while the capital and financial account records cross-border transactions in financial assets and capital transfers; the two must sum to balance overall payments."
+  },
+  {
+    "id": 160,
+    "domain": "economics",
+    "front": "What is comparative advantage and why does it drive gains from trade?",
+    "back": "A country has comparative advantage in producing a good if it can produce it at a lower opportunity cost than another country. Trade based on comparative advantage allows both countries to consume more than they could in isolation, even if one country is absolutely more efficient at producing everything."
+  },
+  {
+    "id": 161,
+    "domain": "financial_statement_analysis",
+    "front": "What is the core principle of revenue recognition under IFRS 15 and ASC 606?",
+    "back": "Revenue is recognized when a company satisfies a performance obligation by transferring control of a good or service to a customer, in an amount reflecting the consideration the company expects to receive."
+  },
+  {
+    "id": 162,
+    "domain": "financial_statement_analysis",
+    "front": "What is the five-step model for revenue recognition under the converged standard?",
+    "back": "1) Identify the contract with a customer, 2) identify the separate performance obligations, 3) determine the transaction price, 4) allocate the transaction price to each obligation, 5) recognize revenue when or as each obligation is satisfied."
+  },
+  {
+    "id": 163,
+    "domain": "financial_statement_analysis",
+    "front": "How does revenue differ from a gain on the income statement?",
+    "back": "Revenue arises from a company's ordinary, ongoing business activities such as selling goods or services. A gain arises from peripheral or incidental transactions, such as selling a piece of equipment above its carrying value, and is not part of core operating activity."
+  },
+  {
+    "id": 164,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for gross profit margin?",
+    "back": "Gross profit margin = (Revenue − Cost of goods sold) ÷ Revenue × 100%. It measures the percentage of revenue retained after covering direct production costs."
+  },
+  {
+    "id": 165,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for net profit margin?",
+    "back": "Net profit margin = Net income ÷ Revenue × 100%. It shows the percentage of each revenue dollar that flows through to the bottom line after all expenses, interest, and taxes."
+  },
+  {
+    "id": 166,
+    "domain": "financial_statement_analysis",
+    "front": "What is the general principle behind matching expense recognition to revenue?",
+    "back": "The matching principle requires expenses directly tied to generating revenue, such as cost of goods sold, to be recognized in the same period as the related revenue, so that period income reflects the true economic effort behind those sales."
+  },
+  {
+    "id": 167,
+    "domain": "financial_statement_analysis",
+    "front": "How are period costs treated differently from product costs?",
+    "back": "Product costs are capitalized as inventory and expensed as cost of goods sold when the related goods are sold. Period costs, such as administrative salaries, are expensed in the period incurred regardless of when related revenue is earned."
+  },
+  {
+    "id": 168,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for basic earnings per share?",
+    "back": "Basic EPS = (Net income − Preferred dividends) ÷ Weighted average number of common shares outstanding."
+  },
+  {
+    "id": 169,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for diluted earnings per share using the if-converted method for convertible debt?",
+    "back": "Diluted EPS = (Net income − Preferred dividends + Convertible debt interest × (1 − Tax rate)) ÷ (Weighted average shares + Shares from conversion of convertible debt), including the conversion only if it is dilutive."
+  },
+  {
+    "id": 170,
+    "domain": "financial_statement_analysis",
+    "front": "What is the treasury stock method used for in diluted EPS?",
+    "back": "The treasury stock method estimates the net new shares added when options or warrants are exercised, assuming the proceeds from exercise are used to repurchase shares at the average market price, which reduces the dilutive share impact compared to a simple addition of all option shares."
+  },
+  {
+    "id": 171,
+    "domain": "financial_statement_analysis",
+    "front": "When is a convertible security excluded from the diluted EPS calculation?",
+    "back": "A convertible security is excluded, and treated as antidilutive, when including it would increase diluted EPS or decrease a diluted loss per share, since only dilutive securities that reduce EPS are included in the diluted calculation."
+  },
+  {
+    "id": 172,
+    "domain": "financial_statement_analysis",
+    "front": "What distinguishes a simple capital structure from a complex capital structure?",
+    "back": "A simple capital structure contains no potentially dilutive securities, such as convertible bonds, convertible preferred stock, or options, so only basic EPS is reported. A complex capital structure contains such securities and requires both basic and diluted EPS to be disclosed."
+  },
+  {
+    "id": 173,
+    "domain": "financial_statement_analysis",
+    "front": "What is a common-size income statement and how is it constructed?",
+    "back": "Every line item on the income statement is expressed as a percentage of total revenue, allowing an analyst to compare cost structure, profitability, and expense trends across companies of different sizes or across time periods for the same company."
+  },
+  {
+    "id": 174,
+    "domain": "financial_statement_analysis",
+    "front": "What is a common-size balance sheet and how is it constructed?",
+    "back": "A common-size balance sheet expresses every asset, liability, and equity line item as a percentage of total assets, allowing comparison of capital structure and asset composition across companies regardless of scale."
+  },
+  {
+    "id": 175,
+    "domain": "financial_statement_analysis",
+    "front": "What is the accounting equation that underlies the balance sheet?",
+    "back": "Assets = Liabilities + Shareholders' equity. Every recorded transaction must keep this equation in balance, which is the foundation of double-entry accounting."
+  },
+  {
+    "id": 176,
+    "domain": "financial_statement_analysis",
+    "front": "How are current assets ordered on a classified balance sheet and what defines them?",
+    "back": "Current assets are those expected to be converted to cash, sold, or consumed within one year or one operating cycle, whichever is longer, typically listed in order of liquidity: cash, marketable securities, receivables, inventory, and prepaid expenses."
+  },
+  {
+    "id": 177,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for working capital?",
+    "back": "Working capital = Current assets − Current liabilities. It measures a company's short-term liquidity buffer, the resources available to meet near-term obligations."
+  },
+  {
+    "id": 178,
+    "domain": "financial_statement_analysis",
+    "front": "What is the difference between an operating expense and a nonoperating expense on the income statement?",
+    "back": "Operating expenses, such as selling, general and administrative costs, arise from the company's core business activities. Nonoperating expenses, such as interest expense or losses on asset sales, arise from financing or peripheral activities unrelated to core operations."
+  },
+  {
+    "id": 179,
+    "domain": "financial_statement_analysis",
+    "front": "What is comprehensive income and how does it differ from net income?",
+    "back": "Comprehensive income includes net income plus other comprehensive income items, such as unrealized gains and losses on available-for-sale securities, foreign currency translation adjustments, and certain pension adjustments, that bypass the income statement but affect equity."
+  },
+  {
+    "id": 180,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for return on equity?",
+    "back": "Return on equity = Net income ÷ Average shareholders' equity × 100%. It measures the profit generated per dollar of equity capital invested by shareholders."
+  },
+  {
+    "id": 181,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for return on assets?",
+    "back": "Return on assets = Net income ÷ Average total assets × 100%. It measures how efficiently a company uses its total asset base to generate profit."
+  },
+  {
+    "id": 182,
+    "domain": "financial_statement_analysis",
+    "front": "How does an unusual or infrequent item differ from an item classified as discontinued operations?",
+    "back": "An unusual or infrequent item, such as a restructuring charge, is reported within income from continuing operations before tax. Discontinued operations represent a component the company has disposed of or classified as held for sale, reported separately net of tax below income from continuing operations."
+  },
+  {
+    "id": 183,
+    "domain": "financial_statement_analysis",
+    "front": "What is the weighted average number of shares outstanding used for in EPS, and how is a stock split handled?",
+    "back": "It is the time-weighted average of common shares outstanding during the period, adjusted for share issuances and repurchases based on the fraction of the period they were outstanding. A stock split or stock dividend is applied retroactively to all periods presented as if it had occurred at the start of the earliest period shown."
+  },
+  {
+    "id": 184,
+    "domain": "financial_statement_analysis",
+    "front": "What are the two general approaches to classifying expenses on the income statement?",
+    "back": "The nature-of-expense method classifies costs by type, such as depreciation, raw materials, and employee benefits. The function-of-expense (cost of sales) method classifies costs by their business function, such as cost of goods sold and administrative expense, and requires additional nature-based disclosure in notes under IFRS."
+  },
+  {
+    "id": 185,
+    "domain": "financial_statement_analysis",
+    "front": "What is a contra asset account and give an example on the balance sheet?",
+    "back": "A contra asset account carries a credit balance and reduces the reported value of its related asset account. Accumulated depreciation is the classic example, reducing gross property, plant and equipment to its net book value."
+  },
+  {
+    "id": 186,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for the current ratio and what does it measure?",
+    "back": "Current ratio = Current assets ÷ Current liabilities. It measures a company's ability to cover short-term obligations using assets expected to convert to cash within one year."
+  },
+  {
+    "id": 187,
+    "domain": "financial_statement_analysis",
+    "front": "How does a bill-and-hold arrangement affect revenue recognition timing?",
+    "back": "Revenue on a bill-and-hold arrangement can only be recognized once control has effectively transferred to the buyer, requiring a substantive reason for the arrangement, separate identification of the goods as belonging to the buyer, and the goods being ready for immediate physical transfer, even though physical delivery is delayed."
+  },
+  {
+    "id": 188,
+    "domain": "financial_statement_analysis",
+    "front": "What is the difference between a multi-step and a single-step income statement format?",
+    "back": "A multi-step income statement separates operating items from nonoperating items, presenting subtotals such as gross profit and operating income before reaching net income. A single-step income statement groups all revenues together and all expenses together, arriving at net income in one subtraction."
+  },
+  {
+    "id": 189,
+    "domain": "financial_statement_analysis",
+    "front": "What is the formula for the quick ratio (acid-test ratio)?",
+    "back": "Quick ratio = (Cash + Marketable securities + Receivables) ÷ Current liabilities. It is a stricter liquidity measure than the current ratio because it excludes inventory and prepaid expenses, which are less readily convertible to cash."
+  },
+  {
+    "id": 190,
+    "domain": "financial_statement_analysis",
+    "front": "How should a long-term construction contract recognize revenue over time under the input or output method?",
+    "back": "Revenue is recognized over time in proportion to progress toward completion, measured either by an input method, such as costs incurred to date relative to total estimated costs, or an output method, such as units delivered or milestones achieved, provided the contract meets the over-time recognition criteria."
+  },
+  {
+    "id": 191,
+    "domain": "financial_statement_analysis",
+    "front": "What is the effect on EPS of a company repurchasing its own shares (treasury stock) during the year?",
+    "back": "A share repurchase reduces the weighted average number of shares outstanding for the portion of the year after the buyback, which increases EPS for a given level of net income, all else equal."
+  },
+  {
+    "id": 192,
+    "domain": "financial_statement_analysis",
+    "front": "What is the difference between accrued revenue and unearned (deferred) revenue?",
+    "back": "Accrued revenue is recognized when a service has been performed or goods delivered before cash is received, creating a receivable. Unearned revenue arises when cash is received before the related good or service is delivered, creating a liability until the performance obligation is satisfied."
+  },
+  {
+    "id": 193,
+    "domain": "financial_statement_analysis",
+    "front": "What is total shareholders' equity composed of on the balance sheet?",
+    "back": "Shareholders' equity typically includes common stock at par value, additional paid-in capital, retained earnings, treasury stock (a contra equity account), and accumulated other comprehensive income, summing to the residual claim on assets after liabilities."
+  },
+  {
+    "id": 194,
+    "domain": "financial_statement_analysis",
+    "front": "Current ratio formula",
+    "back": "Current assets ÷ Current liabilities. Measures a firm's ability to meet short-term obligations with short-term assets; higher generally means more liquid."
+  },
+  {
+    "id": 195,
+    "domain": "financial_statement_analysis",
+    "front": "Quick ratio (acid-test) formula",
+    "back": "(Cash + Marketable securities + Receivables) ÷ Current liabilities. Excludes inventory and prepaid expenses since they are less readily converted to cash."
+  },
+  {
+    "id": 196,
+    "domain": "financial_statement_analysis",
+    "front": "Cash ratio formula",
+    "back": "(Cash + Cash equivalents + Marketable securities) ÷ Current liabilities. The most conservative liquidity measure, using only the most liquid assets."
+  },
+  {
+    "id": 197,
+    "domain": "financial_statement_analysis",
+    "front": "Defensive interval ratio formula",
+    "back": "(Cash + Marketable securities + Receivables) ÷ Daily cash expenditures. Estimates how many days a company can operate using only its existing liquid assets."
+  },
+  {
+    "id": 198,
+    "domain": "financial_statement_analysis",
+    "front": "Cash conversion cycle formula",
+    "back": "Days of inventory on hand + Days of sales outstanding minus Days of payables outstanding. Measures the time between paying for inventory and collecting cash from its sale."
+  },
+  {
+    "id": 199,
+    "domain": "financial_statement_analysis",
+    "front": "Debt-to-equity ratio formula",
+    "back": "Total debt ÷ Total shareholders' equity. A solvency ratio showing how much debt financing is used relative to equity financing."
+  },
+  {
+    "id": 200,
+    "domain": "financial_statement_analysis",
+    "front": "Debt-to-assets ratio formula",
+    "back": "Total debt ÷ Total assets. Shows the proportion of a company's assets financed with debt; higher values indicate greater financial leverage."
+  },
+  {
+    "id": 201,
+    "domain": "financial_statement_analysis",
+    "front": "Interest coverage ratio formula",
+    "back": "EBIT ÷ Interest expense. Measures how many times a company can cover its interest payments from operating earnings; lower values signal higher default risk."
+  },
+  {
+    "id": 202,
+    "domain": "financial_statement_analysis",
+    "front": "Financial leverage ratio formula",
+    "back": "Average total assets ÷ Average total equity. Also called the equity multiplier; it is the third component of the DuPont decomposition of ROE."
+  },
+  {
+    "id": 203,
+    "domain": "financial_statement_analysis",
+    "front": "Gross profit margin formula",
+    "back": "Gross profit ÷ Revenue, expressed as a percentage. Shows the percentage of revenue retained after subtracting cost of goods sold."
+  },
+  {
+    "id": 204,
+    "domain": "financial_statement_analysis",
+    "front": "Operating profit margin formula",
+    "back": "Operating income ÷ Revenue, expressed as a percentage. Measures profitability from core operations before interest and taxes."
+  },
+  {
+    "id": 205,
+    "domain": "financial_statement_analysis",
+    "front": "Net profit margin formula",
+    "back": "Net income ÷ Revenue, expressed as a percentage. Shows how much of each sales dollar remains as profit after all expenses, interest, and taxes."
+  },
+  {
+    "id": 206,
+    "domain": "financial_statement_analysis",
+    "front": "Return on assets (ROA) formula",
+    "back": "Net income ÷ Average total assets, expressed as a percentage. Measures how efficiently a company uses its assets to generate profit."
+  },
+  {
+    "id": 207,
+    "domain": "financial_statement_analysis",
+    "front": "Return on equity (ROE) formula",
+    "back": "Net income ÷ Average shareholders' equity, expressed as a percentage. Measures the profit generated per dollar of equity capital invested by shareholders."
+  },
+  {
+    "id": 208,
+    "domain": "financial_statement_analysis",
+    "front": "DuPont 3-factor ROE decomposition",
+    "back": "ROE = Net profit margin × Asset turnover × Financial leverage, where Net profit margin = Net income ÷ Revenue, Asset turnover = Revenue ÷ Average total assets, and Financial leverage = Average total assets ÷ Average total equity."
+  },
+  {
+    "id": 209,
+    "domain": "financial_statement_analysis",
+    "front": "DuPont 5-factor ROE decomposition",
+    "back": "ROE = Tax burden × Interest burden × Operating margin × Asset turnover × Financial leverage, where Tax burden = Net income ÷ Pretax income and Interest burden = Pretax income ÷ EBIT. This splits net profit margin into three drivers to isolate the effects of taxes, interest, and operations."
+  },
+  {
+    "id": 210,
+    "domain": "financial_statement_analysis",
+    "front": "Total asset turnover ratio formula",
+    "back": "Revenue ÷ Average total assets. An activity ratio measuring how efficiently a company generates sales from its total asset base."
+  },
+  {
+    "id": 211,
+    "domain": "financial_statement_analysis",
+    "front": "Inventory turnover ratio formula",
+    "back": "Cost of goods sold ÷ Average inventory. Measures how many times inventory is sold and replaced over a period; higher turnover generally indicates efficient inventory management."
+  },
+  {
+    "id": 212,
+    "domain": "financial_statement_analysis",
+    "front": "Days of inventory on hand (DOH) formula",
+    "back": "365 ÷ Inventory turnover ratio. Estimates the average number of days a company holds inventory before selling it."
+  },
+  {
+    "id": 213,
+    "domain": "financial_statement_analysis",
+    "front": "Receivables turnover ratio formula",
+    "back": "Revenue ÷ Average receivables. Measures how efficiently a company collects cash from customers who bought on credit."
+  },
+  {
+    "id": 214,
+    "domain": "financial_statement_analysis",
+    "front": "Days of sales outstanding (DSO) formula",
+    "back": "365 ÷ Receivables turnover ratio. Estimates the average number of days it takes to collect cash from credit sales."
+  },
+  {
+    "id": 215,
+    "domain": "financial_statement_analysis",
+    "front": "Payables turnover ratio formula",
+    "back": "Purchases ÷ Average payables. Measures how quickly a company pays its suppliers; a lower turnover means the company takes longer to pay."
+  },
+  {
+    "id": 216,
+    "domain": "financial_statement_analysis",
+    "front": "Days of payables outstanding (DPO) formula",
+    "back": "365 ÷ Payables turnover ratio. Estimates the average number of days a company takes to pay its suppliers."
+  },
+  {
+    "id": 217,
+    "domain": "financial_statement_analysis",
+    "front": "FIFO vs LIFO in a period of rising prices",
+    "back": "Under FIFO, older lower-cost units are expensed first, so cost of goods sold is lower and ending inventory and net income are higher. Under LIFO, newer higher-cost units are expensed first, so cost of goods sold is higher and ending inventory and net income are lower."
+  },
+  {
+    "id": 218,
+    "domain": "financial_statement_analysis",
+    "front": "LIFO reserve definition",
+    "back": "The difference between inventory reported under FIFO and inventory reported under LIFO. It is disclosed in footnotes and used to convert a LIFO firm's financials to a FIFO basis for comparison."
+  },
+  {
+    "id": 219,
+    "domain": "financial_statement_analysis",
+    "front": "Converting LIFO inventory to FIFO inventory",
+    "back": "FIFO inventory equals LIFO inventory plus the LIFO reserve. This adjustment allows comparison of firms using different inventory cost flow assumptions."
+  },
+  {
+    "id": 220,
+    "domain": "financial_statement_analysis",
+    "front": "LIFO liquidation",
+    "back": "Occurs when a LIFO firm sells more units than it purchases in a period, forcing it to dip into older, lower-cost layers of inventory. This produces an artificially lower cost of goods sold and inflated net income relative to normal operations."
+  },
+  {
+    "id": 221,
+    "domain": "financial_statement_analysis",
+    "front": "Straight-line depreciation formula",
+    "back": "(Cost minus Residual value) ÷ Useful life. Allocates an equal amount of depreciation expense to each period of the asset's useful life."
+  },
+  {
+    "id": 222,
+    "domain": "financial_statement_analysis",
+    "front": "Double-declining balance depreciation formula",
+    "back": "Depreciation rate = 2 ÷ Useful life, multiplied by the asset's beginning-of-period net book value each year, ignoring residual value until book value approaches it. It is an accelerated method producing higher depreciation expense in early years."
+  },
+  {
+    "id": 223,
+    "domain": "financial_statement_analysis",
+    "front": "Direct method of preparing the cash flow statement",
+    "back": "Reports actual cash inflows and outflows from operating activities, such as cash received from customers and cash paid to suppliers, rather than starting from net income. CFA Institute encourages this method for its clarity, though it is used less often in practice."
+  },
+  {
+    "id": 224,
+    "domain": "financial_statement_analysis",
+    "front": "Indirect method of preparing the cash flow statement",
+    "back": "Starts with net income and adjusts for noncash items such as depreciation and amortization, plus changes in working capital accounts, to arrive at cash flow from operating activities. It is the method most companies actually use."
+  },
+  {
+    "id": 225,
+    "domain": "financial_statement_analysis",
+    "front": "Effective tax rate formula",
+    "back": "Income tax expense ÷ Pretax income, expressed as a percentage. It reflects the actual average tax rate a company pays and can differ from the statutory tax rate due to permanent and temporary differences."
+  },
+  {
+    "id": 226,
+    "domain": "corporate_issuers",
+    "front": "What is corporate governance?",
+    "back": "The system of internal controls, processes, and procedures by which a firm is directed and controlled, defining the relationships among shareholders, the board of directors, management, and other stakeholders."
+  },
+  {
+    "id": 227,
+    "domain": "corporate_issuers",
+    "front": "Define an agency relationship in the corporate context.",
+    "back": "An arrangement in which a principal (owner) engages an agent (manager) to perform a service on the principal's behalf, delegating decision-making authority to that agent."
+  },
+  {
+    "id": 228,
+    "domain": "corporate_issuers",
+    "front": "What is an agency conflict (agency problem)?",
+    "back": "A conflict of interest arising because agents (managers) may act in their own self-interest rather than in the best interest of the principals (shareholders) who hired them."
+  },
+  {
+    "id": 229,
+    "domain": "corporate_issuers",
+    "front": "What are agency costs?",
+    "back": "The costs borne by shareholders that arise from conflicts of interest between shareholders and managers, including monitoring costs, bonding costs, and residual loss."
+  },
+  {
+    "id": 230,
+    "domain": "corporate_issuers",
+    "front": "What is the shareholder theory of corporate governance?",
+    "back": "The view that a corporation's primary purpose is to maximize shareholder wealth and returns, with management acting strictly as agents for shareholders."
+  },
+  {
+    "id": 231,
+    "domain": "corporate_issuers",
+    "front": "What is the stakeholder theory of corporate governance?",
+    "back": "The view that a corporation should balance the interests of all stakeholders, including shareholders, employees, customers, suppliers, and the community, not just shareholders alone."
+  },
+  {
+    "id": 232,
+    "domain": "corporate_issuers",
+    "front": "What is a classified (staggered) board?",
+    "back": "A board structure in which directors are divided into groups elected in different years, so only a fraction of the board stands for election annually, which can entrench management and weaken shareholder control."
+  },
+  {
+    "id": 233,
+    "domain": "corporate_issuers",
+    "front": "What does board independence mean?",
+    "back": "Board independence refers to directors having no material financial, family, or employment relationship with the company beyond their director role, allowing them to provide objective oversight of management."
+  },
+  {
+    "id": 234,
+    "domain": "corporate_issuers",
+    "front": "What is a dual-class share structure?",
+    "back": "A share structure in which a company issues two or more classes of common stock with different voting rights, often letting founders retain control while owning a smaller percentage of cash flow rights."
+  },
+  {
+    "id": 235,
+    "domain": "corporate_issuers",
+    "front": "What is the difference between statutory voting and cumulative voting?",
+    "back": "Under statutory voting each shareholder gets one vote per share for each director position; under cumulative voting shareholders can allocate all their votes to one or a few candidates, which helps minority shareholders elect a director."
+  },
+  {
+    "id": 236,
+    "domain": "corporate_issuers",
+    "front": "What is a poison pill takeover defense?",
+    "back": "A shareholder rights plan that allows existing shareholders (excluding the acquirer) to purchase additional shares at a discount if a hostile bidder acquires a threshold stake, diluting the acquirer and making the takeover more costly."
+  },
+  {
+    "id": 237,
+    "domain": "corporate_issuers",
+    "front": "What is greenmail?",
+    "back": "A defensive tactic in which a target company repurchases a hostile acquirer's shares at a premium price in exchange for the acquirer agreeing to end its takeover attempt."
+  },
+  {
+    "id": 238,
+    "domain": "corporate_issuers",
+    "front": "State the Modigliani-Miller Proposition I without taxes.",
+    "back": "In perfect capital markets with no taxes, a firm's value is independent of its capital structure; the way a firm finances its operations does not affect its total value."
+  },
+  {
+    "id": 239,
+    "domain": "corporate_issuers",
+    "front": "State the Modigliani-Miller Proposition II without taxes.",
+    "back": "The cost of equity increases linearly with the firm's debt-to-equity ratio, because financial leverage increases the risk borne by equity holders, exactly offsetting the benefit of using cheaper debt."
+  },
+  {
+    "id": 240,
+    "domain": "corporate_issuers",
+    "front": "How does MM Proposition I change when corporate taxes are introduced?",
+    "back": "With corporate taxes, firm value increases with leverage because interest payments are tax deductible, creating a valuable interest tax shield: Value of levered firm = Value of unlevered firm + (Tax rate × Debt)."
+  },
+  {
+    "id": 241,
+    "domain": "corporate_issuers",
+    "front": "What is the static trade-off theory of capital structure?",
+    "back": "The theory that a firm's optimal capital structure balances the tax benefits of debt against the increasing costs of financial distress and bankruptcy as leverage rises."
+  },
+  {
+    "id": 242,
+    "domain": "corporate_issuers",
+    "front": "What is pecking order theory?",
+    "back": "A theory stating that firms prefer internal financing first, then debt, and equity issuance as a last resort, due to information asymmetry making external financing costlier, especially equity."
+  },
+  {
+    "id": 243,
+    "domain": "corporate_issuers",
+    "front": "What is the weighted average cost of capital (WACC) formula?",
+    "back": "WACC = (E ÷ V) × re + (D ÷ V) × rd × (1 − t), where E is market value of equity, D is market value of debt, V = E + D, re is cost of equity, rd is cost of debt, and t is the marginal tax rate."
+  },
+  {
+    "id": 244,
+    "domain": "corporate_issuers",
+    "front": "How is the cost of debt typically estimated?",
+    "back": "The cost of debt is usually estimated as the yield to maturity on the firm's existing long-term debt, then adjusted after tax as rd × (1 − t) since interest expense is tax deductible."
+  },
+  {
+    "id": 245,
+    "domain": "corporate_issuers",
+    "front": "State the Capital Asset Pricing Model (CAPM) formula for cost of equity.",
+    "back": "re = Rf + β × (Rm − Rf), where Rf is the risk-free rate, β is the stock's beta, and (Rm − Rf) is the equity market risk premium."
+  },
+  {
+    "id": 246,
+    "domain": "corporate_issuers",
+    "front": "What is the dividend discount model approach to estimating cost of equity?",
+    "back": "re = (D1 ÷ P0) + g, where D1 is next year's expected dividend, P0 is the current stock price, and g is the constant expected dividend growth rate."
+  },
+  {
+    "id": 247,
+    "domain": "corporate_issuers",
+    "front": "What is the marginal cost of capital?",
+    "back": "The cost of raising one additional dollar of new capital, which typically rises as a company raises progressively larger amounts of financing because cheaper sources of capital are exhausted first."
+  },
+  {
+    "id": 248,
+    "domain": "corporate_issuers",
+    "front": "What is a breakpoint in the marginal cost of capital schedule?",
+    "back": "The level of total new financing at which the cost of one or more capital components changes, causing the firm's marginal cost of capital to increase; calculated as (Amount of capital at which a source's cost changes) ÷ (Target weight of that source)."
+  },
+  {
+    "id": 249,
+    "domain": "corporate_issuers",
+    "front": "What is the NPV (Net Present Value) decision rule for capital budgeting?",
+    "back": "Accept a project if NPV > 0, since it is expected to increase firm value; reject if NPV < 0. NPV = sum of the present values of all expected after-tax cash flows minus the initial investment."
+  },
+  {
+    "id": 250,
+    "domain": "corporate_issuers",
+    "front": "What is the IRR (Internal Rate of Return) decision rule?",
+    "back": "Accept a project if its IRR exceeds the required rate of return (cost of capital); the IRR is the discount rate at which NPV equals zero."
+  },
+  {
+    "id": 251,
+    "domain": "corporate_issuers",
+    "front": "When can the NPV and IRR methods give conflicting rankings for mutually exclusive projects?",
+    "back": "Conflicts arise when projects differ substantially in size, timing of cash flows, or have unconventional cash flow patterns; in such cases NPV should be preferred because it directly measures value added to the firm."
+  },
+  {
+    "id": 252,
+    "domain": "corporate_issuers",
+    "front": "What is the payback period method?",
+    "back": "The number of years required to recover the initial investment from a project's expected cash flows; it ignores the time value of money and cash flows occurring after the payback point."
+  },
+  {
+    "id": 253,
+    "domain": "corporate_issuers",
+    "front": "What is the discounted payback period?",
+    "back": "The number of years required to recover the initial investment using discounted cash flows rather than nominal cash flows, addressing the time value of money weakness of the regular payback method but still ignoring cash flows after payback."
+  },
+  {
+    "id": 254,
+    "domain": "corporate_issuers",
+    "front": "What is the profitability index (PI)?",
+    "back": "PI = (Present value of future cash flows ÷ Initial investment) = 1 + (NPV ÷ Initial investment); a project is acceptable when PI is greater than 1."
+  },
+  {
+    "id": 255,
+    "domain": "corporate_issuers",
+    "front": "What is working capital management?",
+    "back": "The management of a firm's short-term assets and liabilities, primarily cash, receivables, inventory, and payables, to ensure the firm can meet its short-term obligations while operating efficiently."
+  },
+  {
+    "id": 256,
+    "domain": "corporate_issuers",
+    "front": "What is the cash conversion cycle (CCC) formula?",
+    "back": "CCC = Days of inventory on hand + Days of sales outstanding − Days of payables outstanding. A shorter CCC means the firm converts investments in inventory back into cash more quickly."
+  },
+  {
+    "id": 257,
+    "domain": "corporate_issuers",
+    "front": "What is the current ratio?",
+    "back": "Current ratio = Current assets ÷ Current liabilities; it measures a firm's ability to meet short-term obligations using assets expected to be converted to cash within one year."
+  },
+  {
+    "id": 258,
+    "domain": "corporate_issuers",
+    "front": "What is the quick ratio (acid-test ratio)?",
+    "back": "Quick ratio = (Cash + Short-term marketable investments + Receivables) ÷ Current liabilities; it excludes inventory to give a more conservative measure of short-term liquidity."
+  },
+  {
+    "id": 259,
+    "domain": "corporate_issuers",
+    "front": "What are the primary sources of liquidity for a firm?",
+    "back": "Primary sources include cash balances, short-term funds from operating cash flow, effective management of receivables and inventory, and existing bank credit lines available on short notice."
+  },
+  {
+    "id": 260,
+    "domain": "corporate_issuers",
+    "front": "What is the difference between a company's business risk and its financial risk?",
+    "back": "Business risk is the uncertainty in operating earnings arising from a firm's operations and industry; financial risk is the additional risk borne by equity holders due to the firm's use of debt financing, which increases the volatility of earnings available to shareholders."
+  },
+  {
+    "id": 261,
+    "domain": "equity_investments",
+    "front": "What are the two main types of equity securities?",
+    "back": "Common shares and preferred shares. Common shares carry voting rights and a residual claim on earnings and assets; preferred shares generally have no voting rights but receive a fixed dividend with priority over common shareholders."
+  },
+  {
+    "id": 262,
+    "domain": "equity_investments",
+    "front": "What rights does a common shareholder typically have?",
+    "back": "The right to vote on corporate matters such as electing directors and major transactions, the right to share in declared dividends, and a residual claim on assets in liquidation after creditors and preferred shareholders are paid."
+  },
+  {
+    "id": 263,
+    "domain": "equity_investments",
+    "front": "Define cumulative preferred stock.",
+    "back": "Preferred stock on which any unpaid (skipped) dividends accumulate as arrears and must be paid in full to preferred shareholders before any dividend can be paid to common shareholders."
+  },
+  {
+    "id": 264,
+    "domain": "equity_investments",
+    "front": "Define callable preferred stock.",
+    "back": "Preferred stock that gives the issuer the right, but not the obligation, to redeem the shares from investors at a specified call price after a stated date, typically used when the issuer expects rates or its cost of capital to fall."
+  },
+  {
+    "id": 265,
+    "domain": "equity_investments",
+    "front": "Define putable preferred stock.",
+    "back": "Preferred stock that gives the holder the right to sell the shares back to the issuer at a specified price, which reduces the investor's downside risk and price volatility compared with nonputable preferred."
+  },
+  {
+    "id": 266,
+    "domain": "equity_investments",
+    "front": "What is convertible preferred stock?",
+    "back": "Preferred stock that can be exchanged for a fixed number of common shares of the issuing company at the holder's option, giving upside participation in the common stock while retaining a preferred dividend claim."
+  },
+  {
+    "id": 267,
+    "domain": "equity_investments",
+    "front": "What distinguishes participating preferred stock?",
+    "back": "In addition to its fixed dividend, participating preferred stock entitles holders to an extra dividend if the company's profits exceed a specified level, and often to a share of liquidation proceeds above par value."
+  },
+  {
+    "id": 268,
+    "domain": "equity_investments",
+    "front": "What is the difference between public equity and private equity?",
+    "back": "Public equity trades on organized exchanges or over-the-counter markets and is subject to public disclosure requirements, while private equity is issued through private placements to a limited number of investors and is not registered for public trading."
+  },
+  {
+    "id": 269,
+    "domain": "equity_investments",
+    "front": "What is venture capital?",
+    "back": "Private equity capital provided to early-stage, high-growth-potential companies in exchange for an ownership stake, typically funding product development or expansion before the company is ready for public markets."
+  },
+  {
+    "id": 270,
+    "domain": "equity_investments",
+    "front": "What are the two broad categories of equity market structures?",
+    "back": "Quote-driven (dealer) markets, where investors trade with dealers who post bid and ask prices, and order-driven markets, where buy and sell orders from investors are matched directly, often through an order book."
+  },
+  {
+    "id": 271,
+    "domain": "equity_investments",
+    "front": "What is a primary market versus a secondary market?",
+    "back": "The primary market is where new securities are issued and sold to investors for the first time, such as in an IPO, while the secondary market is where previously issued securities are traded among investors."
+  },
+  {
+    "id": 272,
+    "domain": "equity_investments",
+    "front": "What is a price-weighted equity index?",
+    "back": "An index in which each constituent's weight is determined by its share price divided by the sum of all prices, so higher-priced stocks have a greater influence on the index regardless of company size. The Dow Jones Industrial Average is a classic example."
+  },
+  {
+    "id": 273,
+    "domain": "equity_investments",
+    "front": "What is a market-capitalization-weighted equity index?",
+    "back": "An index in which each constituent's weight is based on its total market value, calculated as share price times shares outstanding, so larger companies have a greater influence on index performance."
+  },
+  {
+    "id": 274,
+    "domain": "equity_investments",
+    "front": "What is a float-adjusted market-capitalization-weighted index?",
+    "back": "A market-cap-weighted index that uses only the shares available for public trading, excluding closely held or restricted shares, when calculating each constituent's weight and market value."
+  },
+  {
+    "id": 275,
+    "domain": "equity_investments",
+    "front": "What is an equal-weighted equity index?",
+    "back": "An index that assigns the same weight to each constituent regardless of price or market capitalization, which requires periodic rebalancing to restore equal weights as prices change."
+  },
+  {
+    "id": 276,
+    "domain": "equity_investments",
+    "front": "What is a fundamental-weighted equity index?",
+    "back": "An index that weights constituents by measures of company size or economic footprint other than market price, such as revenue, earnings, book value, or dividends, rather than by market capitalization."
+  },
+  {
+    "id": 277,
+    "domain": "equity_investments",
+    "front": "What is index reconstitution?",
+    "back": "The periodic process of changing the constituent securities that make up an index to reflect additions, deletions, and mergers, ensuring the index continues to represent its intended target market."
+  },
+  {
+    "id": 278,
+    "domain": "equity_investments",
+    "front": "What is index rebalancing?",
+    "back": "The periodic adjustment of the weights of existing index constituents back to their target levels as defined by the index's weighting methodology, without necessarily changing which securities are included."
+  },
+  {
+    "id": 279,
+    "domain": "equity_investments",
+    "front": "What does the weak form of the efficient market hypothesis (EMH) state?",
+    "back": "Current stock prices fully reflect all past price and trading volume information, so technical analysis based on historical price patterns cannot be used to consistently earn abnormal returns."
+  },
+  {
+    "id": 280,
+    "domain": "equity_investments",
+    "front": "What does the semi-strong form of the EMH state?",
+    "back": "Current stock prices fully reflect all publicly available information, including past prices and fundamental data such as financial statements, so neither technical nor fundamental analysis can consistently generate abnormal returns."
+  },
+  {
+    "id": 281,
+    "domain": "equity_investments",
+    "front": "What does the strong form of the EMH state?",
+    "back": "Current stock prices fully reflect all public and private (insider) information, meaning even investors with material nonpublic information could not consistently earn abnormal returns."
+  },
+  {
+    "id": 282,
+    "domain": "equity_investments",
+    "front": "What is the momentum anomaly in market efficiency?",
+    "back": "A pattern in which securities that have performed well over a recent period continue to outperform, and those that have performed poorly continue to underperform, contradicting weak-form market efficiency."
+  },
+  {
+    "id": 283,
+    "domain": "equity_investments",
+    "front": "What is overreaction bias as a market anomaly?",
+    "back": "A behavioral pattern in which investors overreact to new information, pushing prices too far in the direction of the news before they later correct, creating a predictable reversal that challenges market efficiency."
+  },
+  {
+    "id": 284,
+    "domain": "equity_investments",
+    "front": "What is the size effect anomaly?",
+    "back": "The empirical observation that small-capitalization stocks have historically earned higher risk-adjusted returns than large-capitalization stocks, which is difficult to reconcile with efficient markets."
+  },
+  {
+    "id": 285,
+    "domain": "equity_investments",
+    "front": "List Porter's Five Forces framework for industry analysis.",
+    "back": "Threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitute products or services, and rivalry among existing competitors."
+  },
+  {
+    "id": 286,
+    "domain": "equity_investments",
+    "front": "According to Porter's framework, what raises the threat of new entrants?",
+    "back": "Low barriers to entry, such as minimal capital requirements, easy access to distribution channels, low switching costs for customers, and limited economies of scale enjoyed by incumbents."
+  },
+  {
+    "id": 287,
+    "domain": "equity_investments",
+    "front": "What increases buyer bargaining power in Porter's framework?",
+    "back": "Buyer power rises when buyers are concentrated or purchase in large volumes, the product is undifferentiated, switching costs are low, and buyers have full information or the ability to backward integrate."
+  },
+  {
+    "id": 288,
+    "domain": "equity_investments",
+    "front": "What increases supplier bargaining power in Porter's framework?",
+    "back": "Supplier power rises when suppliers are few or concentrated, their input is critical and lacks substitutes, switching suppliers is costly, and suppliers could plausibly forward integrate into the buyer's industry."
+  },
+  {
+    "id": 289,
+    "domain": "equity_investments",
+    "front": "What are the typical stages of the industry life cycle?",
+    "back": "Embryonic (introduction), growth, shakeout, mature, and decline, each characterized by different patterns of sales growth, profitability, competitive intensity, and barriers to entry."
+  },
+  {
+    "id": 290,
+    "domain": "equity_investments",
+    "front": "What characterizes the growth stage of the industry life cycle?",
+    "back": "Rapid increases in unit sales and revenue as products gain widespread acceptance, improving but still uneven profitability across firms, and relatively low competitive rivalry since demand growth exceeds industry capacity."
+  },
+  {
+    "id": 291,
+    "domain": "equity_investments",
+    "front": "What characterizes the shakeout stage of the industry life cycle?",
+    "back": "Growth slows and becomes more dependent on overall economic growth, competition intensifies for market share, profit margins narrow, and weaker competitors exit or are acquired."
+  },
+  {
+    "id": 292,
+    "domain": "equity_investments",
+    "front": "What characterizes the mature stage of the industry life cycle?",
+    "back": "Industry growth roughly matches overall economic growth, market shares stabilize among a few dominant firms, barriers to entry are high, and profitability is stable but no longer rapidly expanding."
+  },
+  {
+    "id": 293,
+    "domain": "equity_investments",
+    "front": "What is a barrier to entry, and why does it matter for industry analysis?",
+    "back": "A barrier to entry is a factor, such as high capital requirements, brand loyalty, or regulation, that makes it difficult for new competitors to enter an industry; high barriers protect incumbents' profitability and market share."
+  },
+  {
+    "id": 294,
+    "domain": "equity_investments",
+    "front": "What is the Gordon growth model formula?",
+    "back": "V0 = D1 ÷ (r − g), where D1 is next year's expected dividend, r is the required rate of return, and g is the constant expected dividend growth rate. It values a stock as the present value of a perpetually growing dividend stream."
+  },
+  {
+    "id": 295,
+    "domain": "equity_investments",
+    "front": "What condition must hold for the Gordon growth model to produce a meaningful (positive, finite) value?",
+    "back": "The required return must exceed the growth rate (r > g). If g ≥ r, the model produces a negative or undefined value and cannot be used."
+  },
+  {
+    "id": 296,
+    "domain": "equity_investments",
+    "front": "How do you find D1 if only the current dividend D0 is given?",
+    "back": "D1 = D0 × (1 + g), where g is the constant expected growth rate. D1 is always the dividend expected to be paid one period from today."
+  },
+  {
+    "id": 297,
+    "domain": "equity_investments",
+    "front": "What is the implied growth rate formula when solving the Gordon growth model for g?",
+    "back": "g = r − (D1 ÷ V0). Rearranging the Gordon growth model isolates g given the required return and the current price or value."
+  },
+  {
+    "id": 298,
+    "domain": "equity_investments",
+    "front": "What is the implied required return formula when solving the Gordon growth model for r?",
+    "back": "r = (D1 ÷ V0) + g. This is the sum of the dividend yield (D1 ÷ V0) and the expected growth rate, a common way to estimate the cost of equity."
+  },
+  {
+    "id": 299,
+    "domain": "equity_investments",
+    "front": "What is the dividend displacement of earnings problem in the Gordon growth model?",
+    "back": "A firm that retains more earnings to fund higher growth pays a lower current dividend, so higher assumed g does not always raise value; the model captures a trade-off between current dividend size and future growth."
+  },
+  {
+    "id": 300,
+    "domain": "equity_investments",
+    "front": "What are the two components of total expected return implied by the Gordon growth model?",
+    "back": "Expected total return equals the dividend yield (D1 ÷ V0) plus the expected capital gains yield, which under constant growth equals g."
+  },
+  {
+    "id": 301,
+    "domain": "equity_investments",
+    "front": "What is the sustainable growth rate formula?",
+    "back": "g = b × ROE, where b is the earnings retention rate (1 minus the dividend payout ratio) and ROE is return on equity. It estimates the growth rate a firm can sustain without external equity financing."
+  },
+  {
+    "id": 302,
+    "domain": "equity_investments",
+    "front": "How is the dividend payout ratio defined?",
+    "back": "Payout ratio = dividends per share ÷ earnings per share. It is the complement of the retention rate b, so b = 1 − payout ratio."
+  },
+  {
+    "id": 303,
+    "domain": "equity_investments",
+    "front": "What is the two-stage dividend discount model used for?",
+    "back": "It values a stock with an initial high-growth period followed by a stable, sustainable long-term growth rate; value equals the present value of the high-growth stage dividends plus the present value of a Gordon growth terminal value at the end of that stage."
+  },
+  {
+    "id": 304,
+    "domain": "equity_investments",
+    "front": "How is the terminal value calculated at the end of a multistage dividend discount model?",
+    "back": "Terminal value = Dn+1 ÷ (r − gstable), applying the Gordon growth formula to the first stable-growth-stage dividend, then discounting that terminal value back to the present at r."
+  },
+  {
+    "id": 305,
+    "domain": "equity_investments",
+    "front": "What is the justified leading P/E ratio formula under the Gordon growth model?",
+    "back": "Leading P/E = (D1 ÷ E1) ÷ (r − g), which equals the expected dividend payout ratio divided by the required return minus the growth rate."
+  },
+  {
+    "id": 306,
+    "domain": "equity_investments",
+    "front": "What is the justified trailing P/E ratio formula under the Gordon growth model?",
+    "back": "Trailing P/E = [(1 − b) × (1 + g)] ÷ (r − g), where (1 − b) is the current payout ratio, b is the retention rate, and g is the constant growth rate."
+  },
+  {
+    "id": 307,
+    "domain": "equity_investments",
+    "front": "What is the basic price to earnings (P/E) ratio formula?",
+    "back": "P/E = price per share ÷ earnings per share. It measures how much investors pay per dollar of a company's earnings and is the most widely used equity valuation multiple."
+  },
+  {
+    "id": 308,
+    "domain": "equity_investments",
+    "front": "What is the difference between trailing P/E and leading P/E?",
+    "back": "Trailing P/E uses earnings per share from the most recent four quarters (or fiscal year); leading (forward) P/E uses expected earnings per share for the next four quarters or next fiscal year."
+  },
+  {
+    "id": 309,
+    "domain": "equity_investments",
+    "front": "What is normalized earnings per share and why is it used?",
+    "back": "Normalized EPS is the level of EPS a company would achieve under mid-cycle economic conditions, removing the effects of business-cycle peaks and troughs, used to compute a more meaningful P/E for cyclical companies."
+  },
+  {
+    "id": 310,
+    "domain": "equity_investments",
+    "front": "What is the PEG ratio?",
+    "back": "PEG = P/E ÷ expected earnings growth rate (expressed as a whole number, not a decimal). A lower PEG suggests a stock is more attractively priced relative to its growth prospects, though it assumes a linear P/E-to-growth relationship."
+  },
+  {
+    "id": 311,
+    "domain": "equity_investments",
+    "front": "What is the price to book (P/B) ratio formula?",
+    "back": "P/B = market price per share ÷ book value per share, where book value per share is total shareholders' equity (excluding preferred equity) divided by shares outstanding."
+  },
+  {
+    "id": 312,
+    "domain": "equity_investments",
+    "front": "What are common limitations of the price to book ratio?",
+    "back": "Book value can be distorted by different accounting methods, does not reflect the value of intangible assets like brand or human capital, and can become negative or meaningless for firms with substantial share buybacks or losses."
+  },
+  {
+    "id": 313,
+    "domain": "equity_investments",
+    "front": "What is the price to sales (P/S) ratio formula?",
+    "back": "P/S = market price per share ÷ sales per share (or market capitalization ÷ total revenue). It is useful for valuing companies with negative earnings since revenue is rarely negative."
+  },
+  {
+    "id": 314,
+    "domain": "equity_investments",
+    "front": "What is a key advantage of the price to sales ratio over the P/E ratio?",
+    "back": "Sales figures are less subject to accounting distortions and manipulation than earnings, and P/S remains meaningful even when a company has negative or highly volatile earnings."
+  },
+  {
+    "id": 315,
+    "domain": "equity_investments",
+    "front": "What is the price to cash flow (P/CF) ratio?",
+    "back": "P/CF = market price per share ÷ cash flow per share. It avoids some of the accounting distortions in earnings and is harder for management to manipulate than net income."
+  },
+  {
+    "id": 316,
+    "domain": "equity_investments",
+    "front": "What is free cash flow to the firm (FCFF)?",
+    "back": "FCFF is the cash flow available to all providers of capital (both debt and equity holders) after the firm pays operating expenses, taxes, and makes necessary investments in working capital and fixed capital."
+  },
+  {
+    "id": 317,
+    "domain": "equity_investments",
+    "front": "What is the formula for FCFF starting from net income?",
+    "back": "FCFF = NI + NCC + Int × (1 − tax rate) − FCInv − WCInv, where NCC is non-cash charges, Int is interest expense, FCInv is fixed capital investment, and WCInv is working capital investment."
+  },
+  {
+    "id": 318,
+    "domain": "equity_investments",
+    "front": "What is free cash flow to equity (FCFE)?",
+    "back": "FCFE is the cash flow available to common shareholders only, after operating expenses, interest, taxes, net borrowing, and investments in working capital and fixed capital have been paid."
+  },
+  {
+    "id": 319,
+    "domain": "equity_investments",
+    "front": "What is the formula for FCFE starting from FCFF?",
+    "back": "FCFE = FCFF − Int × (1 − tax rate) + net borrowing, where net borrowing is new debt issued minus debt repaid."
+  },
+  {
+    "id": 320,
+    "domain": "equity_investments",
+    "front": "How do you value the firm using FCFF, and how do you get to equity value?",
+    "back": "Firm value = present value of all future FCFF discounted at the weighted average cost of capital (WACC). Equity value equals firm value minus the market value of debt (and any other non-equity claims)."
+  },
+  {
+    "id": 321,
+    "domain": "equity_investments",
+    "front": "How do you value equity directly using FCFE?",
+    "back": "Equity value = present value of all future FCFE discounted at the required rate of return on equity (r), then equity value per share = total equity value ÷ shares outstanding."
+  },
+  {
+    "id": 322,
+    "domain": "equity_investments",
+    "front": "What discount rate is used for FCFF versus FCFE valuation?",
+    "back": "FCFF is discounted at the weighted average cost of capital (WACC), since it represents cash flow to all capital providers. FCFE is discounted at the required return on equity, since it represents cash flow to shareholders only."
+  },
+  {
+    "id": 323,
+    "domain": "equity_investments",
+    "front": "When is a free-cash-flow-based valuation model preferred over the dividend discount model?",
+    "back": "When a company pays no dividends or dividends that are unrelated to earnings capacity, or when an analyst takes a control perspective and wants to value the cash flow available for discretionary use rather than only what is actually distributed."
+  },
+  {
+    "id": 324,
+    "domain": "equity_investments",
+    "front": "What is the constant growth FCFE valuation model formula?",
+    "back": "Equity value = FCFE1 ÷ (r − g), applying the same Gordon growth logic as the dividend discount model but to free cash flow to equity instead of dividends."
+  },
+  {
+    "id": 325,
+    "domain": "equity_investments",
+    "front": "Why might price multiples based on comparables give a different value estimate than a discounted cash flow model?",
+    "back": "Multiples reflect current market pricing of similar companies, which can embed mispricing or differing risk and growth assumptions across the peer group, while a DCF model derives value directly from a company's own projected fundamentals and required return."
+  },
+  {
+    "id": 326,
+    "domain": "fixed_income",
+    "front": "What is a bond's par value?",
+    "back": "The principal amount the issuer promises to repay the bondholder at maturity, also called face value or maturity value. Coupon payments are typically calculated as a percentage of par value."
+  },
+  {
+    "id": 327,
+    "domain": "fixed_income",
+    "front": "What is the coupon rate?",
+    "back": "The annual interest rate stated on a bond, used to calculate the periodic coupon payment as coupon rate × par value. It is fixed at issuance for a plain vanilla fixed-rate bond."
+  },
+  {
+    "id": 328,
+    "domain": "fixed_income",
+    "front": "Define a zero-coupon bond.",
+    "back": "A bond that pays no periodic coupons and is issued at a discount to par value, with the investor's entire return coming from the difference between the purchase price and par value at maturity."
+  },
+  {
+    "id": 329,
+    "domain": "fixed_income",
+    "front": "What is a floating-rate note (FRN)?",
+    "back": "A bond whose coupon rate resets periodically based on a reference rate plus a fixed quoted margin, for example reference rate + 0.75%. Its price stays closer to par than a fixed-rate bond because the coupon adjusts with market rates."
+  },
+  {
+    "id": 330,
+    "domain": "fixed_income",
+    "front": "What is a bond indenture?",
+    "back": "The legal contract between the bond issuer and bondholders that specifies the terms of the bond, including obligations, restrictive covenants, and the rights of both parties."
+  },
+  {
+    "id": 331,
+    "domain": "fixed_income",
+    "front": "Distinguish an affirmative covenant from a negative covenant.",
+    "back": "An affirmative covenant requires the issuer to take certain actions, such as paying taxes and maintaining insurance. A negative covenant restricts the issuer from certain actions, such as limiting additional debt issuance or asset sales."
+  },
+  {
+    "id": 332,
+    "domain": "fixed_income",
+    "front": "What is a secured bond versus an unsecured bond?",
+    "back": "A secured bond is backed by specific collateral pledged by the issuer, giving bondholders a claim on that asset if the issuer defaults. An unsecured bond, or debenture, is backed only by the issuer's general creditworthiness."
+  },
+  {
+    "id": 333,
+    "domain": "fixed_income",
+    "front": "What is a callable bond?",
+    "back": "A bond that gives the issuer the right to redeem it before maturity at a specified call price, typically exercised when interest rates fall so the issuer can refinance at a lower rate. This benefits the issuer and works against the bondholder."
+  },
+  {
+    "id": 334,
+    "domain": "fixed_income",
+    "front": "What is a putable bond?",
+    "back": "A bond that gives the bondholder the right to sell the bond back to the issuer at a specified price before maturity, typically exercised when interest rates rise. This benefits the bondholder and works against the issuer."
+  },
+  {
+    "id": 335,
+    "domain": "fixed_income",
+    "front": "What is a convertible bond?",
+    "back": "A bond that gives the bondholder the right to exchange it for a specified number of the issuer's common shares. It typically carries a lower coupon rate than an otherwise identical non-convertible bond because of the conversion option's value."
+  },
+  {
+    "id": 336,
+    "domain": "fixed_income",
+    "front": "What are the primary and secondary bond markets?",
+    "back": "The primary market is where newly issued bonds are sold directly to investors, often through underwriters. The secondary market is where previously issued bonds are traded among investors, providing liquidity and price discovery."
+  },
+  {
+    "id": 337,
+    "domain": "fixed_income",
+    "front": "Distinguish a public offering from a private placement.",
+    "back": "A public offering registers bonds with regulators and sells them to the general investing public. A private placement sells bonds directly to a small group of qualified institutional investors without public registration, usually with less liquidity."
+  },
+  {
+    "id": 338,
+    "domain": "fixed_income",
+    "front": "What is an underwritten offering?",
+    "back": "An offering in which an investment bank purchases the entire bond issue from the issuer at a set price and then resells it to investors, bearing the risk of not being able to resell at a profit."
+  },
+  {
+    "id": 339,
+    "domain": "fixed_income",
+    "front": "What is the current yield formula?",
+    "back": "Current yield = annual coupon payment ÷ current bond price. It measures income return only and ignores capital gains or losses and the time value of money."
+  },
+  {
+    "id": 340,
+    "domain": "fixed_income",
+    "front": "What is yield to maturity (YTM)?",
+    "back": "The internal rate of return that equates the present value of a bond's remaining cash flows to its current market price, assuming the bond is held to maturity and all coupons are reinvested at the YTM."
+  },
+  {
+    "id": 341,
+    "domain": "fixed_income",
+    "front": "What is yield to call (YTC)?",
+    "back": "The internal rate of return on a callable bond assuming it is redeemed by the issuer at the first call date and call price rather than held to maturity, calculated the same way as YTM but using the call date and call price as the final cash flow."
+  },
+  {
+    "id": 342,
+    "domain": "fixed_income",
+    "front": "What is yield to worst?",
+    "back": "The lowest possible yield among all the yield measures calculated for a callable bond's various call dates and yield to maturity. It represents the most conservative return an investor should assume."
+  },
+  {
+    "id": 343,
+    "domain": "fixed_income",
+    "front": "State the inverse price/yield relationship for bonds.",
+    "back": "Bond prices and yields move in opposite directions. When market interest rates rise, bond prices fall, and when market interest rates fall, bond prices rise, because future cash flows are discounted at the new required yield."
+  },
+  {
+    "id": 344,
+    "domain": "fixed_income",
+    "front": "When does a bond trade at a premium, discount, or par?",
+    "back": "A bond trades at a premium when its coupon rate exceeds the market yield, at a discount when its coupon rate is below the market yield, and at par when its coupon rate equals the market yield."
+  },
+  {
+    "id": 345,
+    "domain": "fixed_income",
+    "front": "What is the basic bond pricing formula?",
+    "back": "Price = sum of each coupon payment ÷ (1 + yield)^t for each period t, plus par value ÷ (1 + yield)^n, where n is the number of periods to maturity."
+  },
+  {
+    "id": 346,
+    "domain": "fixed_income",
+    "front": "What is a bond's full price (dirty price)?",
+    "back": "The flat price of a bond plus accrued interest owed to the seller since the last coupon payment date. Buyers pay the full price at settlement even though the flat price is what is typically quoted."
+  },
+  {
+    "id": 347,
+    "domain": "fixed_income",
+    "front": "How is accrued interest calculated?",
+    "back": "Accrued interest = periodic coupon payment × (days since last coupon payment ÷ days in the coupon period). It compensates the seller for interest earned but not yet paid at the time of sale."
+  },
+  {
+    "id": 348,
+    "domain": "fixed_income",
+    "front": "What is the flat price (clean price) of a bond?",
+    "back": "The quoted price of a bond excluding accrued interest. Flat price = full price minus accrued interest, and it is the price typically reported by financial data sources."
+  },
+  {
+    "id": 349,
+    "domain": "fixed_income",
+    "front": "What is the yield curve?",
+    "back": "A graphical depiction of the relationship between yields and maturities for bonds of similar credit quality, most commonly plotted for government benchmark bonds across the maturity spectrum."
+  },
+  {
+    "id": 350,
+    "domain": "fixed_income",
+    "front": "Describe a normal (upward-sloping) yield curve.",
+    "back": "A yield curve where longer-maturity bonds have higher yields than shorter-maturity bonds, typically reflecting expectations of economic growth and a premium demanded for holding longer-term risk."
+  },
+  {
+    "id": 351,
+    "domain": "fixed_income",
+    "front": "Describe an inverted yield curve.",
+    "back": "A yield curve where shorter-maturity bonds have higher yields than longer-maturity bonds. It is often viewed as a signal that investors expect slowing economic growth or falling future interest rates."
+  },
+  {
+    "id": 352,
+    "domain": "fixed_income",
+    "front": "What is the par yield curve?",
+    "back": "A yield curve that plots the yields to maturity of hypothetical bonds priced at exactly par for each maturity, showing the coupon rate a newly issued bond at that maturity would need to trade at par."
+  },
+  {
+    "id": 353,
+    "domain": "fixed_income",
+    "front": "What is the spot rate (zero-coupon) yield curve?",
+    "back": "A yield curve plotting the yields on zero-coupon bonds of different maturities. Each spot rate is the discount rate for a single future cash flow occurring at that maturity, used to value each cash flow of a coupon bond individually."
+  },
+  {
+    "id": 354,
+    "domain": "fixed_income",
+    "front": "What is a forward rate?",
+    "back": "An interest rate for a future period that is implied by the current spot rate curve, representing the rate the market expects to prevail for borrowing or lending starting at a future date."
+  },
+  {
+    "id": 355,
+    "domain": "fixed_income",
+    "front": "What is the pure expectations theory of the term structure?",
+    "back": "A theory stating that current long-term interest rates are determined solely by the market's expectations of future short-term interest rates, with forward rates being unbiased predictors of future spot rates."
+  },
+  {
+    "id": 356,
+    "domain": "fixed_income",
+    "front": "What is the liquidity preference theory of the term structure?",
+    "back": "A theory stating that investors demand a liquidity premium for holding longer-maturity bonds to compensate for greater price risk and reduced liquidity, causing longer-term yields to exceed what pure rate expectations alone would suggest."
+  },
+  {
+    "id": 357,
+    "domain": "fixed_income",
+    "front": "What is a bond's yield spread?",
+    "back": "The difference in yield between a bond and a benchmark bond of similar maturity, usually a government security, expressed in basis points and used to measure relative credit and liquidity risk."
+  },
+  {
+    "id": 358,
+    "domain": "fixed_income",
+    "front": "What is the constant-yield price trajectory?",
+    "back": "The path a bond's price follows over time toward par value, assuming yields remain unchanged, as a premium bond's price gradually declines toward par and a discount bond's price gradually rises toward par as maturity approaches."
+  },
+  {
+    "id": 359,
+    "domain": "fixed_income",
+    "front": "What is Macaulay duration?",
+    "back": "Macaulay duration is the weighted average time, in years, until a bond's cash flows are received, with weights based on the present value of each cash flow relative to the bond's total price."
+  },
+  {
+    "id": 360,
+    "domain": "fixed_income",
+    "front": "What is modified duration?",
+    "back": "Modified duration measures the approximate percentage change in a bond's price for a 1% change in yield. It equals Macaulay duration divided by (1 plus the periodic yield)."
+  },
+  {
+    "id": 361,
+    "domain": "fixed_income",
+    "front": "How do you approximate a bond's percentage price change using modified duration?",
+    "back": "Percentage price change is approximately equal to negative modified duration multiplied by the change in yield. The negative sign reflects the inverse relationship between price and yield."
+  },
+  {
+    "id": 362,
+    "domain": "fixed_income",
+    "front": "What does convexity measure?",
+    "back": "Convexity measures the curvature of the price-yield relationship, capturing how duration itself changes as yield changes. It improves the accuracy of price change estimates beyond what duration alone predicts."
+  },
+  {
+    "id": 363,
+    "domain": "fixed_income",
+    "front": "Why does duration alone underestimate a bond's price increase when yields fall?",
+    "back": "Duration assumes a linear price-yield relationship, but the true relationship is convex. For a yield decrease, the actual price increase is larger than the duration-only estimate because of positive convexity."
+  },
+  {
+    "id": 364,
+    "domain": "fixed_income",
+    "front": "How does coupon rate affect duration?",
+    "back": "A lower coupon rate increases duration because more of the bond's total value is concentrated in the final principal payment, lengthening the weighted average time to receive cash flows."
+  },
+  {
+    "id": 365,
+    "domain": "fixed_income",
+    "front": "How does maturity affect duration, holding other factors constant?",
+    "back": "Longer maturity generally increases duration because cash flows are received further in the future, increasing the weighted average time to receipt and the bond's sensitivity to yield changes."
+  },
+  {
+    "id": 366,
+    "domain": "fixed_income",
+    "front": "How does yield to maturity affect duration?",
+    "back": "A higher yield to maturity decreases duration because higher discount rates reduce the present value weight of distant cash flows relative to nearer ones, shortening the weighted average time."
+  },
+  {
+    "id": 367,
+    "domain": "fixed_income",
+    "front": "What is the duration of a zero-coupon bond?",
+    "back": "The duration of a zero-coupon bond equals its maturity in years, since it has only one cash flow, the principal repayment at maturity."
+  },
+  {
+    "id": 368,
+    "domain": "fixed_income",
+    "front": "What is effective duration and when is it preferred over modified duration?",
+    "back": "Effective duration measures price sensitivity to a parallel shift in the benchmark yield curve using actual price changes from a valuation model. It is preferred for bonds with embedded options because cash flows can change with yield."
+  },
+  {
+    "id": 369,
+    "domain": "fixed_income",
+    "front": "How does an embedded call option affect a bond's effective duration?",
+    "back": "A callable bond's effective duration is lower than an otherwise identical option-free bond because the call option limits price appreciation when yields fall, as the issuer is likely to redeem the bond early."
+  },
+  {
+    "id": 370,
+    "domain": "fixed_income",
+    "front": "What is negative convexity and which bonds typically exhibit it?",
+    "back": "Negative convexity occurs when price appreciation is limited as yields fall while price depreciation is not limited as yields rise. Callable bonds and mortgage-backed securities with prepayment risk typically exhibit it."
+  },
+  {
+    "id": 371,
+    "domain": "fixed_income",
+    "front": "What is credit risk?",
+    "back": "Credit risk is the risk of loss from a borrower failing to make timely interest or principal payments as promised. It includes both default risk and the risk of a credit rating downgrade."
+  },
+  {
+    "id": 372,
+    "domain": "fixed_income",
+    "front": "What is default risk versus spread risk?",
+    "back": "Default risk is the probability that an issuer fails to meet its debt obligations. Spread risk is the risk that a bond's price falls because its credit spread widens, even without an actual default."
+  },
+  {
+    "id": 373,
+    "domain": "fixed_income",
+    "front": "What are the four Cs used to assess credit risk according to the 'four Cs of credit analysis'?",
+    "back": "The four Cs are capacity to pay, collateral backing the debt, covenants restricting borrower behavior, and character of management. Together they help assess an issuer's willingness and ability to repay debt."
+  },
+  {
+    "id": 374,
+    "domain": "fixed_income",
+    "front": "What distinguishes investment-grade bonds from high-yield (non-investment-grade) bonds?",
+    "back": "Investment-grade bonds are rated Baa3/BBB- or higher by major rating agencies, reflecting lower default risk. High-yield bonds are rated below that threshold and carry higher default risk and higher yields to compensate."
+  },
+  {
+    "id": 375,
+    "domain": "fixed_income",
+    "front": "Name the three major credit rating agencies referenced in CFA curriculum.",
+    "back": "The three major credit rating agencies are Moody's Investors Service, Standard & Poor's (S&P), and Fitch Ratings."
+  },
+  {
+    "id": 376,
+    "domain": "fixed_income",
+    "front": "What is a credit spread?",
+    "back": "A credit spread is the difference in yield between a corporate or other credit-risky bond and a benchmark government bond of similar maturity. It compensates investors for default risk, liquidity risk, and other risks."
+  },
+  {
+    "id": 377,
+    "domain": "fixed_income",
+    "front": "What typically happens to credit spreads during an economic downturn?",
+    "back": "Credit spreads typically widen during an economic downturn as investors demand greater compensation for increased default risk and reduced market liquidity, causing risky bond prices to fall relative to government bonds."
+  },
+  {
+    "id": 378,
+    "domain": "fixed_income",
+    "front": "What is a credit rating downgrade's typical effect on bond price?",
+    "back": "A credit rating downgrade typically causes a bond's price to fall because investors perceive higher default risk, requiring a higher yield and wider credit spread to compensate."
+  },
+  {
+    "id": 379,
+    "domain": "fixed_income",
+    "front": "What is seniority ranking in the context of credit risk?",
+    "back": "Seniority ranking determines the priority order in which bondholders are repaid in the event of default or liquidation, with senior secured debt paid before senior unsecured, then subordinated debt."
+  },
+  {
+    "id": 380,
+    "domain": "fixed_income",
+    "front": "What is recovery rate?",
+    "back": "Recovery rate is the percentage of a bond's par value that investors receive if the issuer defaults, reflecting proceeds recovered after liquidation or restructuring relative to the original claim."
+  },
+  {
+    "id": 381,
+    "domain": "fixed_income",
+    "front": "What is securitization?",
+    "back": "Securitization is the process of pooling financial assets such as mortgages or loans and converting them into tradable securities backed by the cash flows from the underlying asset pool."
+  },
+  {
+    "id": 382,
+    "domain": "fixed_income",
+    "front": "What is a mortgage-backed security (MBS)?",
+    "back": "A mortgage-backed security is a bond backed by a pool of residential or commercial mortgage loans, where investors receive cash flows derived from the underlying borrowers' principal and interest payments."
+  },
+  {
+    "id": 383,
+    "domain": "fixed_income",
+    "front": "What is an asset-backed security (ABS)?",
+    "back": "An asset-backed security is a bond backed by a pool of financial assets other than mortgages, such as auto loans, credit card receivables, or student loans, with cash flows passed through to investors."
+  },
+  {
+    "id": 384,
+    "domain": "fixed_income",
+    "front": "What is prepayment risk in mortgage-backed securities?",
+    "back": "Prepayment risk is the risk that homeowners repay mortgage principal earlier than scheduled, often by refinancing when rates fall, which returns investor principal sooner than expected and at a time when reinvestment rates are lower."
+  },
+  {
+    "id": 385,
+    "domain": "fixed_income",
+    "front": "What is a special purpose entity (SPE) in securitization?",
+    "back": "A special purpose entity is a separate legal entity created to hold the pooled assets and issue securities backed by them, isolating those assets from the originator's other creditors and bankruptcy risk."
+  },
+  {
+    "id": 386,
+    "domain": "fixed_income",
+    "front": "What is tranching in a securitization structure?",
+    "back": "Tranching divides a securitization into multiple classes of securities with different priority claims on cash flows and different risk levels, allowing senior tranches to be paid before subordinate tranches absorb losses first."
+  },
+  {
+    "id": 387,
+    "domain": "fixed_income",
+    "front": "Why does securitization generally benefit borrowers and the broader credit market?",
+    "back": "Securitization increases the pool of funds available for lending by allowing originators to sell loans and free up capital, often lowering borrowing costs and increasing credit availability."
+  },
+  {
+    "id": 388,
+    "domain": "fixed_income",
+    "front": "How does the relationship between bond price and yield change as duration increases?",
+    "back": "As duration increases, a bond's price becomes more sensitive to changes in yield, meaning a given change in yield produces a larger percentage change in price."
+  },
+  {
+    "id": 389,
+    "domain": "fixed_income",
+    "front": "Why do investors care about both duration and convexity when assessing interest rate risk?",
+    "back": "Duration provides a first-order linear approximation of price sensitivity to yield changes, while convexity captures the curvature that duration misses, together giving a more accurate estimate especially for large yield changes."
+  },
+  {
+    "id": 390,
+    "domain": "fixed_income",
+    "front": "What is the general relationship between credit risk and required yield?",
+    "back": "Higher perceived credit risk requires a higher yield to compensate investors for the greater probability of default and potential loss, resulting in a wider credit spread over a comparable risk-free bond."
+  },
+  {
+    "id": 391,
+    "domain": "derivatives",
+    "front": "What is a derivative?",
+    "back": "A financial instrument whose value is derived from the value of an underlying asset, rate, or index. It creates a contractual relationship between two parties without requiring ownership of the underlying itself."
+  },
+  {
+    "id": 392,
+    "domain": "derivatives",
+    "front": "Define a forward contract.",
+    "back": "A bilateral, customized over the counter agreement in which one party agrees to buy and the other to sell an underlying asset at a fixed price on a specified future date. It carries counterparty credit risk and is not marked to market daily."
+  },
+  {
+    "id": 393,
+    "domain": "derivatives",
+    "front": "How does a futures contract differ from a forward contract?",
+    "back": "Futures are standardized, exchange traded contracts that are marked to market daily through a clearinghouse, which largely eliminates counterparty credit risk. Forwards are private, customized OTC agreements settled only at expiration."
+  },
+  {
+    "id": 394,
+    "domain": "derivatives",
+    "front": "What is the payoff at expiration for the long position in a forward contract?",
+    "back": "The payoff to the long is the spot price of the underlying at expiration minus the forward price agreed at initiation. The short's payoff is the mirror image, the forward price minus the spot price."
+  },
+  {
+    "id": 395,
+    "domain": "derivatives",
+    "front": "What is a swap?",
+    "back": "An OTC agreement between two parties to exchange a series of cash flows over time, typically based on different reference rates or asset returns applied to a notional principal that is not usually exchanged."
+  },
+  {
+    "id": 396,
+    "domain": "derivatives",
+    "front": "Describe a plain vanilla interest rate swap.",
+    "back": "One party pays a fixed rate and receives a floating rate, such as a reference rate, on a notional principal, while the counterparty pays floating and receives fixed. Only net interest payments are exchanged, not principal."
+  },
+  {
+    "id": 397,
+    "domain": "derivatives",
+    "front": "What is a call option?",
+    "back": "A contract giving the buyer the right, but not the obligation, to buy the underlying asset at a specified exercise price on or before expiration. The buyer pays a premium for this right."
+  },
+  {
+    "id": 398,
+    "domain": "derivatives",
+    "front": "What is a put option?",
+    "back": "A contract giving the buyer the right, but not the obligation, to sell the underlying asset at a specified exercise price on or before expiration. The buyer pays a premium for this right."
+  },
+  {
+    "id": 399,
+    "domain": "derivatives",
+    "front": "What is the maximum loss for the buyer of a call option?",
+    "back": "The maximum loss is limited to the premium paid for the option, which occurs if the option expires out of the money and is never exercised."
+  },
+  {
+    "id": 400,
+    "domain": "derivatives",
+    "front": "What is the maximum loss for the writer (seller) of an uncovered call option?",
+    "back": "The loss is theoretically unlimited because the underlying asset price can rise without bound, and the writer must deliver the asset at the fixed exercise price regardless of how high the spot price rises."
+  },
+  {
+    "id": 401,
+    "domain": "derivatives",
+    "front": "When is a call option in the money?",
+    "back": "A call option is in the money when the underlying asset's spot price is greater than the exercise price, meaning immediate exercise would produce a positive payoff."
+  },
+  {
+    "id": 402,
+    "domain": "derivatives",
+    "front": "When is a put option in the money?",
+    "back": "A put option is in the money when the underlying asset's spot price is less than the exercise price, meaning immediate exercise would produce a positive payoff."
+  },
+  {
+    "id": 403,
+    "domain": "derivatives",
+    "front": "What does at the money mean for an option?",
+    "back": "An option is at the money when the underlying asset's current spot price equals the exercise price, so immediate exercise would produce a payoff of zero."
+  },
+  {
+    "id": 404,
+    "domain": "derivatives",
+    "front": "Define intrinsic value of an option.",
+    "back": "The value the option would have if exercised immediately, equal to the greater of zero or the difference between the spot price and exercise price in the option's favorable direction. It can never be negative."
+  },
+  {
+    "id": 405,
+    "domain": "derivatives",
+    "front": "Define time value (speculative value) of an option.",
+    "back": "The portion of an option's premium above its intrinsic value, reflecting the possibility that the option will become more valuable before expiration due to future price movement and remaining time to expiry."
+  },
+  {
+    "id": 406,
+    "domain": "derivatives",
+    "front": "How does time value change as expiration approaches?",
+    "back": "Time value generally decreases as expiration nears, a phenomenon called time decay, and falls to zero exactly at expiration when the option's value equals only its intrinsic value."
+  },
+  {
+    "id": 407,
+    "domain": "derivatives",
+    "front": "What is the payoff formula for a long call option at expiration?",
+    "back": "Max(0, spot price at expiration minus exercise price). The holder exercises only if the spot price exceeds the exercise price."
+  },
+  {
+    "id": 408,
+    "domain": "derivatives",
+    "front": "What is the payoff formula for a long put option at expiration?",
+    "back": "Max(0, exercise price minus spot price at expiration). The holder exercises only if the exercise price exceeds the spot price."
+  },
+  {
+    "id": 409,
+    "domain": "derivatives",
+    "front": "What is the cost of carry model for forward pricing?",
+    "back": "The forward price equals the spot price compounded at the risk free rate over the contract term, adjusted for carrying costs such as storage and insurance, and reduced by any benefits received from holding the asset, such as dividends or convenience yield."
+  },
+  {
+    "id": 410,
+    "domain": "derivatives",
+    "front": "What is arbitrage in the context of derivatives pricing?",
+    "back": "A risk free profit opportunity earned by simultaneously exploiting a price discrepancy, such as buying an underpriced asset or contract and selling an equivalent overpriced position, with no net investment and no risk."
+  },
+  {
+    "id": 411,
+    "domain": "derivatives",
+    "front": "What is cash and carry arbitrage?",
+    "back": "A strategy used when a forward contract is overpriced relative to fair value: the arbitrageur borrows money to buy the underlying asset spot, carries it to expiration, and simultaneously sells the overpriced forward, locking in a risk free profit."
+  },
+  {
+    "id": 412,
+    "domain": "derivatives",
+    "front": "What is reverse cash and carry arbitrage?",
+    "back": "A strategy used when a forward contract is underpriced relative to fair value: the arbitrageur sells the underlying asset short, invests the proceeds at the risk free rate, and buys the underpriced forward, locking in a risk free profit."
+  },
+  {
+    "id": 413,
+    "domain": "derivatives",
+    "front": "What is the law of one price?",
+    "back": "Two assets or portfolios that produce identical future cash flows under all future states of the world must trade at the same current price, or an arbitrage opportunity would exist."
+  },
+  {
+    "id": 414,
+    "domain": "derivatives",
+    "front": "What does it mean to replicate a derivative payoff?",
+    "back": "Constructing a portfolio of other assets, such as the underlying asset combined with risk free borrowing or lending, whose cash flows exactly match the derivative's payoff, allowing the derivative to be valued off the cost of that portfolio."
+  },
+  {
+    "id": 415,
+    "domain": "derivatives",
+    "front": "State put-call parity for European options.",
+    "back": "Call price plus present value of the exercise price equals put price plus underlying spot price, for European options with the same exercise price and expiration. It links call and put values through a no-arbitrage relationship."
+  },
+  {
+    "id": 416,
+    "domain": "derivatives",
+    "front": "How can put-call parity be used to create a synthetic call option?",
+    "back": "Rearranging put-call parity shows that a long call can be replicated by holding a long put, a long position in the underlying asset, and borrowing the present value of the exercise price."
+  },
+  {
+    "id": 417,
+    "domain": "derivatives",
+    "front": "What is convenience yield?",
+    "back": "A non-monetary benefit of physically holding a commodity, such as avoiding stockouts or maintaining production flexibility, that lowers the forward price relative to a pure cost of carry model because it acts like a return earned by the holder."
+  },
+  {
+    "id": 418,
+    "domain": "derivatives",
+    "front": "Why do futures contracts have essentially no counterparty credit risk compared with forwards?",
+    "back": "A clearinghouse becomes the counterparty to every futures trade, requires margin deposits, and marks positions to market daily, settling gains and losses each day so that credit exposure never accumulates significantly."
+  },
+  {
+    "id": 419,
+    "domain": "derivatives",
+    "front": "What is the difference between exchange traded and OTC derivatives in terms of standardization?",
+    "back": "Exchange traded derivatives, like futures and listed options, have standardized contract sizes, expiration dates, and terms set by the exchange. OTC derivatives, like most forwards and swaps, are privately negotiated and customized between counterparties."
+  },
+  {
+    "id": 420,
+    "domain": "derivatives",
+    "front": "How does a fiduciary call relate to a protective put under put-call parity?",
+    "back": "A fiduciary call, a long call plus a risk free bond paying the exercise price at expiration, has the same payoff and cost as a protective put, a long position in the underlying plus a long put, illustrating the equivalence at the heart of put-call parity."
+  },
+  {
+    "id": 421,
+    "domain": "alternative_investments",
+    "front": "What are the seven main categories of alternative investments covered in the CFA curriculum?",
+    "back": "Hedge funds, private equity, private debt, real estate, infrastructure, commodities, and digital assets."
+  },
+  {
+    "id": 422,
+    "domain": "alternative_investments",
+    "front": "What is the typical fee structure for a hedge fund?",
+    "back": "A management fee plus a performance fee, commonly expressed as 2 and 20, meaning 2 percent of assets under management annually plus 20 percent of profits above a benchmark or hurdle."
+  },
+  {
+    "id": 423,
+    "domain": "alternative_investments",
+    "front": "What is a hurdle rate in a hedge fund fee structure?",
+    "back": "The minimum return the fund must achieve before the manager can collect a performance fee, protecting investors from paying incentive fees on mediocre returns."
+  },
+  {
+    "id": 424,
+    "domain": "alternative_investments",
+    "front": "What is a high water mark?",
+    "back": "A provision requiring a hedge fund manager to recover any prior losses before collecting performance fees again, preventing fees on gains that merely offset earlier losses."
+  },
+  {
+    "id": 425,
+    "domain": "alternative_investments",
+    "front": "Define a hard hurdle rate versus a soft hurdle rate.",
+    "back": "With a hard hurdle, the manager earns performance fees only on returns above the hurdle. With a soft hurdle, once the hurdle is cleared the manager earns fees on the entire return, not just the excess."
+  },
+  {
+    "id": 426,
+    "domain": "alternative_investments",
+    "front": "What is an equity market neutral hedge fund strategy?",
+    "back": "A strategy that takes offsetting long and short positions in equities to eliminate net market exposure, aiming to profit from relative mispricing rather than overall market direction."
+  },
+  {
+    "id": 427,
+    "domain": "alternative_investments",
+    "front": "What is convertible arbitrage?",
+    "back": "A strategy that goes long a convertible bond while shorting the underlying stock, seeking to profit from pricing inefficiencies between the convertible and the equity while hedging market risk."
+  },
+  {
+    "id": 428,
+    "domain": "alternative_investments",
+    "front": "What is fixed income arbitrage?",
+    "back": "A strategy exploiting small pricing discrepancies between related fixed income securities, often using leverage to magnify modest yield spreads into attractive returns."
+  },
+  {
+    "id": 429,
+    "domain": "alternative_investments",
+    "front": "What is merger arbitrage (risk arbitrage)?",
+    "back": "A strategy that buys the target company's stock and often shorts the acquirer's stock in an announced merger, profiting from the spread between the current price and the deal price if the merger closes."
+  },
+  {
+    "id": 430,
+    "domain": "alternative_investments",
+    "front": "What is a global macro hedge fund strategy?",
+    "back": "A strategy that takes positions across currencies, interest rates, commodities, and equities based on top down analysis of macroeconomic trends and policy shifts."
+  },
+  {
+    "id": 431,
+    "domain": "alternative_investments",
+    "front": "What distinguishes a fund of hedge funds from a single-manager hedge fund?",
+    "back": "A fund of funds invests in a portfolio of underlying hedge funds, offering diversification and manager selection expertise, but it layers an additional fee on top of the underlying funds' fees."
+  },
+  {
+    "id": 432,
+    "domain": "alternative_investments",
+    "front": "What is a lockup period in a hedge fund?",
+    "back": "A minimum time after investing during which an investor cannot withdraw capital, allowing the manager to pursue less liquid strategies without facing redemption pressure."
+  },
+  {
+    "id": 433,
+    "domain": "alternative_investments",
+    "front": "What is a gate provision in a hedge fund?",
+    "back": "A restriction limiting the amount of capital that can be redeemed at any one time, protecting remaining investors from forced asset sales during periods of heavy redemptions."
+  },
+  {
+    "id": 434,
+    "domain": "alternative_investments",
+    "front": "What is private equity?",
+    "back": "Equity capital invested in companies that are not publicly traded, typically through buyouts of mature firms or growth equity investments in expanding companies, usually held in illiquid, long-term structures."
+  },
+  {
+    "id": 435,
+    "domain": "alternative_investments",
+    "front": "What is a leveraged buyout (LBO)?",
+    "back": "An acquisition of a company financed with a significant amount of debt, using the target company's own assets and cash flows as collateral and repayment source, with the private equity sponsor providing the remaining equity."
+  },
+  {
+    "id": 436,
+    "domain": "alternative_investments",
+    "front": "What is venture capital?",
+    "back": "Private equity financing provided to early stage, high growth potential companies in exchange for equity, typically across seed, early, and later stage rounds."
+  },
+  {
+    "id": 437,
+    "domain": "alternative_investments",
+    "front": "Describe the typical private equity fund structure.",
+    "back": "A limited partnership in which the general partner manages the fund and makes investment decisions, and limited partners contribute capital and have limited liability, usually with a 10 year fund life."
+  },
+  {
+    "id": 438,
+    "domain": "alternative_investments",
+    "front": "What is a capital call in private equity?",
+    "back": "A request from the general partner for limited partners to fund a portion of their committed capital, drawn down over time as the fund identifies and closes investments."
+  },
+  {
+    "id": 439,
+    "domain": "alternative_investments",
+    "front": "What is carried interest?",
+    "back": "The share of a private equity fund's profits, typically around 20 percent, paid to the general partner as performance compensation after limited partners receive their capital back and any preferred return."
+  },
+  {
+    "id": 440,
+    "domain": "alternative_investments",
+    "front": "What is the J-curve effect in private equity?",
+    "back": "The pattern where a fund shows negative returns in early years due to fees and initial investment costs, before returns turn positive as portfolio companies mature and are exited."
+  },
+  {
+    "id": 441,
+    "domain": "alternative_investments",
+    "front": "What are common private equity exit strategies?",
+    "back": "An initial public offering, a trade sale to a strategic buyer, a secondary sale to another private equity firm, or a recapitalization."
+  },
+  {
+    "id": 442,
+    "domain": "alternative_investments",
+    "front": "What is private debt (private credit)?",
+    "back": "Debt financing provided by non-bank lenders, such as private credit funds, directly to companies, often filling a gap left by reduced bank lending to middle market or higher risk borrowers."
+  },
+  {
+    "id": 443,
+    "domain": "alternative_investments",
+    "front": "What is direct lending in private debt?",
+    "back": "A private debt strategy in which a fund originates loans directly to companies rather than purchasing existing loans in the secondary market, often earning an illiquidity premium over comparable public debt."
+  },
+  {
+    "id": 444,
+    "domain": "alternative_investments",
+    "front": "What is distressed debt investing?",
+    "back": "A strategy that buys the debt of financially troubled companies at a discount, seeking profit from a successful restructuring, recovery, or by gaining control of the company through the reorganization process."
+  },
+  {
+    "id": 445,
+    "domain": "alternative_investments",
+    "front": "What is mezzanine debt?",
+    "back": "A hybrid form of financing that ranks below senior debt but above equity in the capital structure, often including equity features like warrants, and carrying higher risk and return than senior loans."
+  },
+  {
+    "id": 446,
+    "domain": "alternative_investments",
+    "front": "What are the two broad approaches to real estate investment?",
+    "back": "Direct ownership of physical property and indirect investment through vehicles such as real estate investment trusts (REITs), limited partnerships, or commingled real estate funds."
+  },
+  {
+    "id": 447,
+    "domain": "alternative_investments",
+    "front": "What is a REIT?",
+    "back": "A real estate investment trust, a publicly or privately traded company that owns, operates, or finances income producing real estate and typically must distribute most of its taxable income to shareholders."
+  },
+  {
+    "id": 448,
+    "domain": "alternative_investments",
+    "front": "What are the main return sources for real estate investment?",
+    "back": "Income from rents and property operations, plus capital appreciation from an increase in property value over the holding period."
+  },
+  {
+    "id": 449,
+    "domain": "alternative_investments",
+    "front": "What is the income approach to real estate valuation?",
+    "back": "A method that estimates property value by capitalizing expected net operating income using a capitalization rate derived from comparable property sales."
+  },
+  {
+    "id": 450,
+    "domain": "alternative_investments",
+    "front": "What is net operating income (NOI) in real estate?",
+    "back": "Rental and other property income minus operating expenses, excluding financing costs and capital expenditures, used as the basis for income based valuation approaches."
+  },
+  {
+    "id": 451,
+    "domain": "alternative_investments",
+    "front": "What is infrastructure investing?",
+    "back": "Investment in long lived physical assets that provide essential services, such as toll roads, airports, utilities, and pipelines, typically offering stable, inflation linked cash flows over long horizons."
+  },
+  {
+    "id": 452,
+    "domain": "alternative_investments",
+    "front": "Distinguish greenfield from brownfield infrastructure investments.",
+    "back": "Greenfield investments fund the construction of new infrastructure assets and carry higher development and completion risk, while brownfield investments acquire existing, already operating assets with more predictable cash flows."
+  },
+  {
+    "id": 453,
+    "domain": "alternative_investments",
+    "front": "Why do institutional investors find infrastructure assets attractive?",
+    "back": "They tend to have stable, often regulated or contracted cash flows, low correlation with traditional asset classes, and inflation linked revenue, matching well against long dated liabilities."
+  },
+  {
+    "id": 454,
+    "domain": "alternative_investments",
+    "front": "How can an investor gain exposure to commodities?",
+    "back": "Through direct physical ownership, commodity futures contracts, commodity linked exchange traded funds, or shares of commodity producing companies, with futures being the most common approach for institutional investors."
+  },
+  {
+    "id": 455,
+    "domain": "alternative_investments",
+    "front": "What is contango in a commodity futures market?",
+    "back": "A market condition in which futures prices are higher than the expected spot price, so the futures curve slopes upward, typically producing a negative roll yield for a long futures position."
+  },
+  {
+    "id": 456,
+    "domain": "alternative_investments",
+    "front": "What is backwardation in a commodity futures market?",
+    "back": "A market condition in which futures prices are lower than the expected spot price, so the futures curve slopes downward, typically producing a positive roll yield for a long futures position."
+  },
+  {
+    "id": 457,
+    "domain": "alternative_investments",
+    "front": "What is roll yield in commodity futures investing?",
+    "back": "The return earned or lost from selling an expiring futures contract and buying a longer dated one, positive when the market is in backwardation and negative when the market is in contango."
+  },
+  {
+    "id": 458,
+    "domain": "alternative_investments",
+    "front": "What are cryptocurrencies as an alternative investment?",
+    "back": "Digital assets that use cryptography and distributed ledger technology to record and verify transactions, characterized by high volatility, no cash flows, and valuation based largely on supply, demand, and network adoption rather than fundamentals."
+  },
+  {
+    "id": 459,
+    "domain": "alternative_investments",
+    "front": "What role does blockchain play in digital assets?",
+    "back": "Blockchain is the underlying distributed ledger technology that records transactions across a network of computers in a way intended to be transparent, secure, and resistant to alteration, forming the infrastructure for cryptocurrencies and other digital assets."
+  },
+  {
+    "id": 460,
+    "domain": "alternative_investments",
+    "front": "What are common risks specific to alternative investments as an asset class?",
+    "back": "Illiquidity, limited transparency and less regulatory oversight, valuation difficulty for infrequently traded assets, use of leverage, and generally higher fees than traditional investments."
+  },
+  {
+    "id": 461,
+    "domain": "portfolio_management",
+    "front": "What are the three steps of the portfolio management process?",
+    "back": "Planning (assess needs and constraints, write the IPS), execution (asset allocation, security analysis and selection, portfolio construction), and feedback (monitor and rebalance the portfolio, evaluate performance against the IPS objectives)."
+  },
+  {
+    "id": 462,
+    "domain": "portfolio_management",
+    "front": "What core idea does modern portfolio theory add to the portfolio management process?",
+    "back": "It shows that combining assets with imperfect correlation reduces overall portfolio risk without proportionally reducing expected return, so a portfolio should be evaluated as a whole rather than asset by asset."
+  },
+  {
+    "id": 463,
+    "domain": "portfolio_management",
+    "front": "Why do individuals hold portfolios instead of single securities?",
+    "back": "A single security exposes an investor to firm-specific risk that diversification can remove for free, so a diversified portfolio offers a better risk-return tradeoff than concentrated holdings of the same expected return."
+  },
+  {
+    "id": 464,
+    "domain": "portfolio_management",
+    "front": "List the main types of institutional investors covered in CFA Level I.",
+    "back": "Defined benefit pension plans, defined contribution pension plans, endowments and foundations, banks, insurance companies (life and non-life), investment companies, and sovereign wealth funds."
+  },
+  {
+    "id": 465,
+    "domain": "portfolio_management",
+    "front": "How does a defined benefit (DB) pension plan differ from a defined contribution (DC) plan in risk bearing?",
+    "back": "In a DB plan the sponsor bears the investment risk and promises a specified retirement benefit; in a DC plan the employee bears the investment risk and the retirement benefit depends on account performance."
+  },
+  {
+    "id": 466,
+    "domain": "portfolio_management",
+    "front": "What distinguishes a life insurance company's investment needs from a non-life (property and casualty) insurer's?",
+    "back": "Life insurers generally have longer, more predictable liability horizons and can accept more illiquidity and longer duration; non-life insurers face shorter and less predictable claim timing, so they need greater liquidity and shorter duration assets."
+  },
+  {
+    "id": 467,
+    "domain": "portfolio_management",
+    "front": "What is the typical time horizon and liquidity need of a university endowment?",
+    "back": "Endowments generally have a very long or perpetual time horizon and support a fixed annual spending rule, so they need moderate liquidity for spending but can tolerate significant illiquidity in the remainder of the portfolio."
+  },
+  {
+    "id": 468,
+    "domain": "portfolio_management",
+    "front": "What is an Investment Policy Statement (IPS)?",
+    "back": "A written planning document that states an investor's return objectives and risk tolerance along with all constraints, and that guides investment decisions and serves as the benchmark for evaluating portfolio performance."
+  },
+  {
+    "id": 469,
+    "domain": "portfolio_management",
+    "front": "What are the two main objectives specified in an IPS?",
+    "back": "Risk objectives (how much risk the investor is able and willing to bear, stated as ability and willingness to take risk) and return objectives (a required or desired return, stated on an absolute or relative basis)."
+  },
+  {
+    "id": 470,
+    "domain": "portfolio_management",
+    "front": "List the five standard IPS constraint categories.",
+    "back": "Liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances."
+  },
+  {
+    "id": 471,
+    "domain": "portfolio_management",
+    "front": "Distinguish ability to take risk from willingness to take risk in an IPS.",
+    "back": "Ability to take risk is an objective measure based on financial factors such as wealth, income stability, and time horizon; willingness to take risk is a subjective, psychological measure of the investor's comfort with volatility. When they conflict, the more conservative of the two generally governs."
+  },
+  {
+    "id": 472,
+    "domain": "portfolio_management",
+    "front": "What does the liquidity constraint in an IPS address?",
+    "back": "The need to convert assets to cash quickly without material loss of value to meet anticipated and unanticipated spending needs, such as planned withdrawals, an emergency reserve, or upcoming known cash outflows."
+  },
+  {
+    "id": 473,
+    "domain": "portfolio_management",
+    "front": "Give an example of a legal and regulatory constraint in an IPS.",
+    "back": "Prudent investor rules governing a trustee's duties, restrictions on pension fund investments under regulation such as ERISA, or insider trading rules that restrict an executive's ability to trade their own company's stock."
+  },
+  {
+    "id": 474,
+    "domain": "portfolio_management",
+    "front": "What is meant by systematic risk?",
+    "back": "Risk that affects the entire market or economy, such as interest rate, inflation, or business cycle risk, that cannot be eliminated through diversification and is the only risk compensated with a risk premium."
+  },
+  {
+    "id": 475,
+    "domain": "portfolio_management",
+    "front": "What is meant by unsystematic (idiosyncratic) risk?",
+    "back": "Firm-specific or industry-specific risk, such as a lawsuit, management change, or product recall, that can be reduced or eliminated by holding a well-diversified portfolio and therefore earns no risk premium."
+  },
+  {
+    "id": 476,
+    "domain": "portfolio_management",
+    "front": "Roughly how many randomly selected stocks are needed to eliminate most unsystematic risk in a portfolio?",
+    "back": "Empirical studies show that around 30 or more randomly selected stocks eliminate most diversifiable risk, though some systematic risk always remains regardless of the number of holdings."
+  },
+  {
+    "id": 477,
+    "domain": "portfolio_management",
+    "front": "What is the formula for the expected return of a two-asset portfolio?",
+    "back": "E(Rp) = w1 × E(R1) + w2 × E(R2), where w1 and w2 are the portfolio weights of assets 1 and 2 and w1 + w2 = 100%."
+  },
+  {
+    "id": 478,
+    "domain": "portfolio_management",
+    "front": "What is the formula for the variance of a two-asset portfolio?",
+    "back": "σp² = w1²σ1² + w2²σ2² + 2w1w2Cov(R1,R2), where Cov(R1,R2) = ρ1,2 × σ1 × σ2 and ρ1,2 is the correlation between the two assets' returns."
+  },
+  {
+    "id": 479,
+    "domain": "portfolio_management",
+    "front": "How does the correlation coefficient between two assets affect diversification benefit?",
+    "back": "The lower the correlation coefficient (closer to negative 1), the greater the risk reduction from combining the assets; a correlation of positive 1 provides no diversification benefit, since portfolio risk is then just the weighted average of the individual risks."
+  },
+  {
+    "id": 480,
+    "domain": "portfolio_management",
+    "front": "What is the minimum-variance frontier?",
+    "back": "The set of portfolios that has the minimum variance (lowest risk) for each level of expected return, plotted with standard deviation on the x-axis and expected return on the y-axis."
+  },
+  {
+    "id": 481,
+    "domain": "portfolio_management",
+    "front": "What is the efficient frontier?",
+    "back": "The upper portion of the minimum-variance frontier starting at the global minimum-variance portfolio, containing only portfolios that offer the highest expected return for each level of risk (no other portfolio dominates them)."
+  },
+  {
+    "id": 482,
+    "domain": "portfolio_management",
+    "front": "What defines an investor's optimal portfolio on the efficient frontier?",
+    "back": "The point where the investor's highest-attainable indifference curve (representing their risk aversion and utility tradeoff between risk and return) is tangent to the efficient frontier."
+  },
+  {
+    "id": 483,
+    "domain": "portfolio_management",
+    "front": "What is the Capital Allocation Line (CAL)?",
+    "back": "A line that shows the risk-return combinations available by combining a risky portfolio with the risk-free asset, plotted from the risk-free rate through the risky portfolio in expected return versus standard deviation space."
+  },
+  {
+    "id": 484,
+    "domain": "portfolio_management",
+    "front": "What is the formula for the slope of the Capital Allocation Line?",
+    "back": "Slope = [E(Rp) minus Rf] ÷ σp, which is the Sharpe ratio of the risky portfolio, where E(Rp) is the risky portfolio's expected return, Rf is the risk-free rate, and σp is the risky portfolio's standard deviation."
+  },
+  {
+    "id": 485,
+    "domain": "portfolio_management",
+    "front": "What is the Capital Market Line (CML)?",
+    "back": "The specific Capital Allocation Line that results when the risky portfolio is the market portfolio; every point on it represents an efficient combination of the risk-free asset and the market portfolio, and it has the steepest attainable slope for a rational investor."
+  },
+  {
+    "id": 486,
+    "domain": "portfolio_management",
+    "front": "What two-fund separation theorem underlies the CML?",
+    "back": "All investors, regardless of risk preference, should hold the same optimal risky portfolio (the market portfolio) and adjust their overall risk only by varying the mix between that portfolio and the risk-free asset."
+  },
+  {
+    "id": 487,
+    "domain": "portfolio_management",
+    "front": "What is systematic risk measured by, and what does it capture?",
+    "back": "Beta, which measures an asset's sensitivity to movements in the overall market portfolio; it captures only the non-diversifiable, market-related portion of an asset's total risk."
+  },
+  {
+    "id": 488,
+    "domain": "portfolio_management",
+    "front": "What is the formula for beta?",
+    "back": "βi = Cov(Ri, Rm) ÷ σm² = ρi,m × (σi ÷ σm), where Cov(Ri,Rm) is the covariance of the asset's return with the market return, σm² is the market's return variance, and ρi,m is the correlation between the asset and the market."
+  },
+  {
+    "id": 489,
+    "domain": "portfolio_management",
+    "front": "What does a beta of 1.0, greater than 1.0, and less than 1.0 mean?",
+    "back": "A beta of 1.0 means the asset moves in line with the market on average; greater than 1.0 means it is more volatile than the market (amplifies market moves); less than 1.0 means it is less volatile than the market (dampens market moves)."
+  },
+  {
+    "id": 490,
+    "domain": "portfolio_management",
+    "front": "What is the Security Market Line (SML)?",
+    "back": "A line, derived from the CAPM, that plots required (expected) return on the y-axis against beta on the x-axis for all assets, whether efficient or not, showing the linear relationship between systematic risk and required return."
+  },
+  {
+    "id": 491,
+    "domain": "portfolio_management",
+    "front": "How does the SML differ from the CML in what it measures on the x-axis?",
+    "back": "The CML uses total risk (standard deviation) and applies only to efficient portfolios; the SML uses systematic risk (beta) and applies to any individual asset or portfolio, efficient or not."
+  },
+  {
+    "id": 492,
+    "domain": "portfolio_management",
+    "front": "What is the Capital Asset Pricing Model (CAPM) formula?",
+    "back": "E(Ri) = Rf + βi × [E(Rm) minus Rf], where E(Ri) is the required return on asset i, Rf is the risk-free rate, βi is the asset's beta, and E(Rm) minus Rf is the market risk premium."
+  },
+  {
+    "id": 493,
+    "domain": "portfolio_management",
+    "front": "What are the four key assumptions underlying the CAPM?",
+    "back": "Investors are risk-averse, utility-maximizing, rational; markets are frictionless with no taxes or transaction costs; investors can borrow and lend unlimited amounts at the risk-free rate; and investors have homogeneous expectations about asset returns, variances, and correlations."
+  },
+  {
+    "id": 494,
+    "domain": "portfolio_management",
+    "front": "In the CAPM, what is the required return on an asset with a beta of zero?",
+    "back": "It equals the risk-free rate, since the asset has no systematic risk exposure and earns no risk premium above Rf, even if it has significant total (unsystematic) risk."
+  },
+  {
+    "id": 495,
+    "domain": "portfolio_management",
+    "front": "How is CAPM used to assess whether a security is overvalued or undervalued?",
+    "back": "Compare the security's estimated or forecast return to its CAPM-required return: if the forecast return exceeds the required return the security plots above the SML and is undervalued (buy); if below, it plots below the SML and is overvalued (sell)."
+  },
+  {
+    "id": 496,
+    "domain": "portfolio_management",
+    "front": "What is the market risk premium?",
+    "back": "The market risk premium equals E(Rm) minus Rf, the expected return on the market portfolio minus the risk-free rate; it is the compensation investors require for bearing the systematic risk of the overall market."
+  },
+  {
+    "id": 497,
+    "domain": "portfolio_management",
+    "front": "What is the beta of the market portfolio and of a risk-free asset?",
+    "back": "The market portfolio has a beta of 1.0 by definition, since it is being compared to itself; a risk-free asset has a beta of 0, since its return does not vary with market movements."
+  },
+  {
+    "id": 498,
+    "domain": "portfolio_management",
+    "front": "What is the risk-return tradeoff embedded in modern portfolio theory called?",
+    "back": "The efficient frontier concept states that for a given level of risk investors demand the highest possible expected return, and for a given expected return investors prefer the lowest possible risk, which defines efficient portfolios."
+  },
+  {
+    "id": 499,
+    "domain": "portfolio_management",
+    "front": "Why is total risk (standard deviation) not the correct risk measure for pricing an individual asset held in a diversified portfolio?",
+    "back": "Because diversification eliminates unsystematic risk at no cost, only systematic risk (beta) remains relevant and priced; using total risk would overstate the compensation an investor should require for that asset."
+  },
+  {
+    "id": 500,
+    "domain": "portfolio_management",
+    "front": "What is the formula for the covariance between two assets given their correlation and standard deviations?",
+    "back": "Cov(R1,R2) = ρ1,2 × σ1 × σ2, where ρ1,2 is the correlation coefficient between the two assets' returns and σ1 and σ2 are their respective standard deviations."
+  }
+]
